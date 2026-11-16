@@ -99,3 +99,18 @@ Website (done):
   the order note in erxes.
 
 **Confirm with Brickzone:** the bank account numbers (not on Zochil), and whether installments have a minimum amount.
+
+## 1.3 eBarimt setup
+
+Zochil had no eBarimt setting for this shop.
+
+1. Collect from Brickzone: the company or individual TIN, district code and VAT status, and the product
+   classification codes (toys / construction sets).
+2. Register for **PosAPI 3.0** (ebarimt.mn → Business → PosAPI) and install the PosAPI service.
+3. **Settings → eBarimt → Add**: enter the PosAPI URL, TIN, district code and VAT switches, then assign it to the
+   website pipeline.
+
+Website (done):
+
+- Checkout asks for «Хувь хүн» or «Байгууллага».
+- For a company it requires the 7-digit registry number and validates it on the server.
