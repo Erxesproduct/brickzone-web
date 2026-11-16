@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArPreview, type ArInfo } from "@/components/ar-preview";
 import { BuyBox } from "@/components/buy-box";
 import { Gallery } from "@/components/gallery";
 import { AgeIcon, BrickIcon, CardIcon, PhoneIcon, PlayIcon, RulerIcon, ScaleIcon, TruckIcon } from "@/components/icons";
@@ -9,7 +8,6 @@ import { ProductGrid } from "@/components/product-card";
 import { SectionHead } from "@/components/section";
 import { business } from "@/content/business";
 import { colorOf } from "@/content/look";
-import arIndex from "@/data/ar.json";
 import { byShelf, discount, getCategory, getProduct, products, sku, soldOut, subName } from "@/lib/catalog";
 import { formatPrice } from "@/lib/format";
 import { absoluteUrl } from "@/lib/site-url";
@@ -41,7 +39,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
   const off = discount(p);
   const out = soldOut(p);
   const color = colorOf(p.category);
-  const ar = (arIndex as Record<string, ArInfo>)[p.slug];
   const specs = [
     p.pieces && { icon: BrickIcon, k: "Ширхэг", v: p.pieces.toLocaleString("en-US") },
     p.size && { icon: RulerIcon, k: "Хэмжээ", v: p.size },
@@ -97,7 +94,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       <div className="mt-5 grid grid-cols-[minmax(0,1fr)] gap-8 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] lg:gap-12">
         <div className="lg:sticky lg:top-28 lg:self-start">
           <Gallery images={p.images} name={p.name} soldOut={out} />
-          {ar && <ArPreview slug={p.slug} name={p.name} ar={ar} />}
         </div>
 
         <div>
