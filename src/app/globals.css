@@ -1,0 +1,171 @@
+@import "tailwindcss";
+
+/*
+ * Brickzone: a builder's workbench. A light warm-grey baseplate with studs, graphite ink, and the
+ * plum → red → orange → amber sweep and the teal of the scribbled Brickzone logo as the only colour.
+ */
+@theme {
+  --color-plate: #ecebe6;
+  --color-plate-2: #e1dfd8;
+  --color-card: #ffffff;
+  --color-ink: #17181c;
+  --color-ink-2: #464952;
+  --color-mute: #767983;
+  --color-line: #d5d2ca;
+  --color-graphite: #1b1d22;
+  --color-graphite-2: #272a31;
+  --color-brick: #e2283a;
+  --color-brick-deep: #b81a2b;
+  --color-plum: #a8145b;
+  --color-flame: #f88e1a;
+  --color-amber: #f8a721;
+  --color-teal: #2f8f8c;
+  --color-teal-deep: #1f6664;
+  --color-mint: #dcefed;
+
+  --font-display: var(--font-tektur), system-ui, sans-serif;
+  --font-sans: var(--font-geologica), system-ui, sans-serif;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-plate);
+  /* baseplate studs: a soft highlight over a soft shadow, 24 px apart */
+  background-image:
+    radial-gradient(circle at 11px 11px, rgb(255 255 255 / 0.55) 0 4.5px, transparent 5px),
+    radial-gradient(circle at 12.5px 12.5px, rgb(0 0 0 / 0.045) 0 5.5px, transparent 6px);
+  background-size: 24px 24px;
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: var(--color-brick);
+  color: #fff;
+}
+
+.display {
+  font-family: var(--font-display);
+  letter-spacing: -0.01em;
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+.label {
+  font-family: var(--font-display);
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* the logo's sweep */
+.grad {
+  background-image: linear-gradient(100deg, var(--color-plum), var(--color-brick) 38%, var(--color-flame) 72%, var(--color-amber));
+}
+.grad-text {
+  background-image: linear-gradient(100deg, var(--color-plum), var(--color-brick) 40%, var(--color-flame) 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* a plastic brick: flat top, a darker lip underneath that you press into */
+.brick {
+  box-shadow: 0 4px 0 0 var(--lip, var(--color-brick-deep));
+  transition: transform 0.12s, box-shadow 0.12s, background-color 0.15s;
+}
+.brick:hover {
+  transform: translateY(1px);
+  box-shadow: 0 3px 0 0 var(--lip, var(--color-brick-deep));
+}
+.brick:active {
+  transform: translateY(4px);
+  box-shadow: 0 0 0 0 var(--lip, var(--color-brick-deep));
+}
+.brick:disabled {
+  transform: none;
+}
+
+/* a row of studs, for the top edge of cards and section titles */
+.stud-row {
+  height: 10px;
+  background-image: radial-gradient(circle at 50% 70%, var(--stud, var(--color-plate-2)) 0 4.5px, transparent 5px);
+  background-size: 18px 10px;
+  background-repeat: repeat-x;
+}
+
+/* dark sections: studs in graphite */
+.studs-dark {
+  background-color: var(--color-graphite);
+  background-image:
+    radial-gradient(circle at 11px 11px, rgb(255 255 255 / 0.05) 0 4.5px, transparent 5px),
+    radial-gradient(circle at 12.5px 12.5px, rgb(0 0 0 / 0.35) 0 5.5px, transparent 6px);
+  background-size: 24px 24px;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+.rise {
+  animation: rise 0.35s ease-out both;
+}
+
+@keyframes snap {
+  0% {
+    opacity: 0;
+    transform: translateY(-14px) scale(0.985);
+  }
+  70% {
+    opacity: 1;
+    transform: translateY(2px);
+  }
+}
+.snap {
+  animation: snap 0.55s cubic-bezier(0.2, 0.8, 0.3, 1.2) both;
+}
+
+@keyframes progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+.progress {
+  transform-origin: left;
+  animation: progress var(--dur, 6s) linear both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .rise,
+  .snap,
+  .progress {
+    animation: none;
+  }
+  .brick,
+  .brick:hover,
+  .brick:active {
+    transform: none;
+  }
+}

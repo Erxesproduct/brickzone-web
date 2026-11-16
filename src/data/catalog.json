@@ -1,0 +1,8769 @@
+{
+ "source": "zochil",
+ "updatedAt": "2026-11-16",
+ "categories": [
+  {
+   "id": "lego-cars",
+   "name": "LEGO машин",
+   "blurb": "Hypercar, спорт машин, Formula 1, жийп: 1,000–3,000 ширхэгтэй цуглуулгын загварууд",
+   "zochil": [
+    243057,
+    243234,
+    244261,
+    320120,
+    320121,
+    320122,
+    320123
+   ],
+   "subs": [
+    {
+     "id": "hypercars",
+     "name": "Hypercars",
+     "zochil": 320120,
+     "count": 11
+    },
+    {
+     "id": "sport",
+     "name": "Спорт машин",
+     "zochil": 320121,
+     "count": 9
+    },
+    {
+     "id": "f1",
+     "name": "Formula 1",
+     "zochil": 320122,
+     "count": 6
+    },
+    {
+     "id": "jeep",
+     "name": "Жийп",
+     "zochil": 320123,
+     "count": 5
+    }
+   ],
+   "count": 31
+  },
+  {
+   "id": "rc",
+   "name": "RC удирдлагатай",
+   "blurb": "Алсын удирдлагатай уул уурхайн техник, бартаат замын машин, завь, нисдэг тэрэг",
+   "zochil": [
+    244324,
+    320241,
+    320266,
+    244327,
+    320267
+   ],
+   "subs": [
+    {
+     "id": "mining",
+     "name": "Уул уурхайн техник",
+     "zochil": 320241,
+     "count": 16
+    },
+    {
+     "id": "offroad",
+     "name": "Бартаат замын машин",
+     "zochil": 320266,
+     "count": 8
+    },
+    {
+     "id": "heavy",
+     "name": "Хүнд даацын машин",
+     "zochil": 244327,
+     "count": 3
+    },
+    {
+     "id": "air-water",
+     "name": "Завь, нисдэг тэрэг",
+     "zochil": 320267,
+     "count": 3
+    }
+   ],
+   "count": 30
+  },
+  {
+   "id": "rc-sets",
+   "name": "RC барилгын багц",
+   "blurb": "Экскаватор, ковш, өөрөө буулгагч, кран: хэдэн машиныг багцаар, бэлэгтэй",
+   "zochil": [
+    349925,
+    349926
+   ],
+   "subs": [],
+   "count": 6
+  },
+  {
+   "id": "military",
+   "name": "Цэргийн LEGO",
+   "blurb": "Танк, хуягт техник, онгоц, нисдэг тэрэг, байлдааны хөлөг",
+   "zochil": [
+    243842,
+    320222,
+    244294,
+    244293,
+    244292,
+    244290
+   ],
+   "subs": [
+    {
+     "id": "tanks",
+     "name": "Танк",
+     "zochil": 244294,
+     "count": 4
+    },
+    {
+     "id": "armored",
+     "name": "Хуягт техник",
+     "zochil": 244293,
+     "count": 8
+    },
+    {
+     "id": "aircraft",
+     "name": "Онгоц, нисдэг тэрэг",
+     "zochil": 244292,
+     "count": 3
+    },
+    {
+     "id": "navy",
+     "name": "Усан онгоц",
+     "zochil": 244290,
+     "count": 3
+    }
+   ],
+   "count": 18
+  },
+  {
+   "id": "6-stud",
+   "name": "6 Stud цуглуулга",
+   "blurb": "Жижиг хэмжээтэй, нарийн хийцтэй цуглуулгын машинууд",
+   "zochil": [
+    321021
+   ],
+   "subs": [],
+   "count": 7
+  },
+  {
+   "id": "frames",
+   "name": "Жааз, хорго",
+   "blurb": "Машины зурагтай жааз (гэрэлтэй ч бий), загвараа тоосноос хамгаалах хорго",
+   "zochil": [
+    273088
+   ],
+   "subs": [],
+   "count": 20
+  },
+  {
+   "id": "buildings",
+   "name": "LEGO барилга",
+   "blurb": "Эйфелийн цамхаг, Таж Махал, Айя София зэрэг дэлхийн алдартай барилга",
+   "zochil": [
+    266376,
+    243237
+   ],
+   "subs": [],
+   "count": 5
+  },
+  {
+   "id": "diecast",
+   "name": "Diecast",
+   "blurb": "Төмөр биетэй жижиг загвар машин: Land Cruiser, Lexus, Subaru, Toyota",
+   "zochil": [
+    245451
+   ],
+   "subs": [],
+   "count": 20
+  },
+  {
+   "id": "diy",
+   "name": "DIY, STEM",
+   "blurb": "Нарны робот, электрон блок: угсарч, ажиллуулж сурах багц",
+   "zochil": [
+    274752
+   ],
+   "subs": [],
+   "count": 4
+  },
+  {
+   "id": "toys",
+   "name": "Бусад тоглоом",
+   "blurb": "Гэрэлтдэг сэлэм, зөөлөн сумтай буу, Minecraft, бүжиглэдэг робот",
+   "zochil": [
+    266877
+   ],
+   "subs": [],
+   "count": 12
+  }
+ ],
+ "products": [
+  {
+   "id": 997032,
+   "slug": "porsche-911-rexy",
+   "name": "Porsche 911 Rexy",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 99000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-11-11",
+   "pieces": 1313,
+   "size": "39×16×10 см",
+   "age": "11+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/porsche-911-rexy.webp",
+     "w": 941,
+     "h": 497,
+     "thumb": {
+      "src": "/images/p/porsche-911-rexy-t.webp",
+      "w": 520,
+      "h": 275
+     }
+    },
+    {
+     "src": "/images/p/porsche-911-rexy-2.webp",
+     "w": 941,
+     "h": 525,
+     "thumb": {
+      "src": "/images/p/porsche-911-rexy-2-t.webp",
+      "w": 520,
+      "h": 290
+     }
+    },
+    {
+     "src": "/images/p/porsche-911-rexy-3.webp",
+     "w": 934,
+     "h": 510,
+     "thumb": {
+      "src": "/images/p/porsche-911-rexy-3-t.webp",
+      "w": 520,
+      "h": 284
+     }
+    }
+   ]
+  },
+  {
+   "id": 986113,
+   "slug": "barilga-bagts-2",
+   "name": "Барилга багц-2",
+   "category": "rc-sets",
+   "sub": [],
+   "zochilCategoryIds": [
+    349925
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 167400,
+   "compareAt": 186000,
+   "stock": 10,
+   "createdAt": "2026-10-22",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Кран өндөр 80 см 360 эргэнэ",
+    "Экскаватор хэмжээ: 38*11*22см 6 үйлдэлтэй",
+    "Белаз хэмжээ: 22см урт 7 үйлдэлтэй",
+    "Ковш-хэмжээ: 30х12х12см 6 үйлдэлтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/barilga-bagts-2.webp",
+     "w": 500,
+     "h": 375,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-2-t.webp",
+      "w": 500,
+      "h": 375
+     }
+    },
+    {
+     "src": "/images/p/barilga-bagts-2-2.webp",
+     "w": 700,
+     "h": 492,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-2-2-t.webp",
+      "w": 520,
+      "h": 365
+     }
+    },
+    {
+     "src": "/images/p/barilga-bagts-2-3.webp",
+     "w": 700,
+     "h": 593,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-2-3-t.webp",
+      "w": 520,
+      "h": 441
+     }
+    },
+    {
+     "src": "/images/p/barilga-bagts-2-4.webp",
+     "w": 700,
+     "h": 862,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-2-4-t.webp",
+      "w": 422,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 986111,
+   "slug": "ford-gt",
+   "name": "Ford GT",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-10-22",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ford-gt.webp",
+     "w": 595,
+     "h": 947,
+     "thumb": {
+      "src": "/images/p/ford-gt-t.webp",
+      "w": 327,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 981542,
+   "slug": "barilga-bagts-1",
+   "name": "Барилга багц-1",
+   "category": "rc-sets",
+   "sub": [],
+   "zochilCategoryIds": [
+    349925
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 127000,
+   "compareAt": null,
+   "stock": 10,
+   "createdAt": "2026-10-14",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Кран өндөр 80 см 360 эргэнэ",
+    "Экскаватор хэмжээ: 38*11*22см 6 үйлдэлтэй",
+    "Белаз хэмжээ: 22см урт 7 үйлдэлтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/barilga-bagts-1.webp",
+     "w": 700,
+     "h": 862,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-1-t.webp",
+      "w": 422,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/barilga-bagts-1-2.webp",
+     "w": 500,
+     "h": 375,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-1-2-t.webp",
+      "w": 500,
+      "h": 375
+     }
+    },
+    {
+     "src": "/images/p/barilga-bagts-1-3.webp",
+     "w": 700,
+     "h": 593,
+     "thumb": {
+      "src": "/images/p/barilga-bagts-1-3-t.webp",
+      "w": 520,
+      "h": 441
+     }
+    }
+   ]
+  },
+  {
+   "id": 981513,
+   "slug": "pro-bagts-beleg-kovsh",
+   "name": "PRO багц+бэлэг ковш",
+   "category": "rc-sets",
+   "sub": [],
+   "zochilCategoryIds": [
+    349925
+   ],
+   "brand": "HULNA TOYS",
+   "sku": "B4",
+   "price": 496220,
+   "compareAt": 577000,
+   "stock": 10,
+   "createdAt": "2026-10-14",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Экскөкаватор хэмжээ: 60*45*17см 11 үйлдэлтэй",
+    "Өөрөө буулгагч Goliat хэмжээ: 45*17*23см 11 үйлдэлтэй",
+    "Bulldozer хэмжээ: 35*20*16 см 15 үйлдэлтэй",
+    "Цэнэглэдэг зайтай",
+    "Алсын зайн удирдлагатай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/pro-bagts-beleg-kovsh.webp",
+     "w": 700,
+     "h": 443,
+     "thumb": {
+      "src": "/images/p/pro-bagts-beleg-kovsh-t.webp",
+      "w": 520,
+      "h": 329
+     }
+    },
+    {
+     "src": "/images/p/pro-bagts-beleg-kovsh-2.webp",
+     "w": 700,
+     "h": 467,
+     "thumb": {
+      "src": "/images/p/pro-bagts-beleg-kovsh-2-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/pro-bagts-beleg-kovsh-3.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/pro-bagts-beleg-kovsh-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 981510,
+   "slug": "uul-uurkhain-bagts-3-beleg",
+   "name": "Уул уурхайн багц -3+бэлэг",
+   "category": "rc-sets",
+   "sub": [],
+   "zochilCategoryIds": [
+    349925
+   ],
+   "brand": null,
+   "sku": "B3",
+   "price": 393300,
+   "compareAt": 437000,
+   "stock": 10,
+   "createdAt": "2026-10-14",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Bulldozer хэмжээ: 35*20*16 см 15 үйлдэлтэй",
+    "Өөрөө буулгагч Goliat хэмжээ: 45*17*23см 11 үйлдэлтэй",
+    "Экскаватор хэмжээ: 35х13х17.5см 6 үйлдэлтэй",
+    "Цэнэглэдэг зайтай",
+    "Алсын зайн удирдлагатай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/uul-uurkhain-bagts-3-beleg.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-3-beleg-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/uul-uurkhain-bagts-3-beleg-2.webp",
+     "w": 700,
+     "h": 467,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-3-beleg-2-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/uul-uurkhain-bagts-3-beleg-3.webp",
+     "w": 909,
+     "h": 906,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-3-beleg-3-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    }
+   ]
+  },
+  {
+   "id": 981495,
+   "slug": "uul-uurkhain-bagts-2",
+   "name": "Уул уурхайн багц -2",
+   "category": "rc-sets",
+   "sub": [],
+   "zochilCategoryIds": [
+    349925
+   ],
+   "brand": null,
+   "sku": "B2",
+   "price": 222300,
+   "compareAt": 247000,
+   "stock": 10,
+   "createdAt": "2026-10-14",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Экскаватор хэмжээ: 35х13х17.5см 6 үйлдэлтэй",
+    "Хово хэмжээ: 33*12*17см 6 үйлдэлтэй",
+    "Ковш хэмжээ: 35х18х18см 9 үйлдэлтэй",
+    "Цэнэглэдэг зайтай",
+    "Алсын зайн удирдлагатай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/uul-uurkhain-bagts-2.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/uul-uurkhain-bagts-2-2.webp",
+     "w": 909,
+     "h": 906,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-2-2-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    },
+    {
+     "src": "/images/p/uul-uurkhain-bagts-2-3.webp",
+     "w": 700,
+     "h": 511,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-2-3-t.webp",
+      "w": 520,
+      "h": 380
+     }
+    }
+   ]
+  },
+  {
+   "id": 981454,
+   "slug": "uul-uurkhain-bagts-1",
+   "name": "Уул уурхайн багц-1",
+   "category": "rc-sets",
+   "sub": [],
+   "zochilCategoryIds": [
+    349926
+   ],
+   "brand": "HULNA TOYS",
+   "sku": "B1",
+   "price": 146700,
+   "compareAt": 163000,
+   "stock": 10,
+   "createdAt": "2026-10-14",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Экскаваторын хэмжээ: 38*11*22см",
+    "Белаз-хэмжээ 22см",
+    "Ковш-хэмжээ: 30х12х12см",
+    "Цэнэглэдэг зайтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/uul-uurkhain-bagts-1.webp",
+     "w": 909,
+     "h": 906,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-1-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    },
+    {
+     "src": "/images/p/uul-uurkhain-bagts-1-2.webp",
+     "w": 500,
+     "h": 375,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-1-2-t.webp",
+      "w": 500,
+      "h": 375
+     }
+    },
+    {
+     "src": "/images/p/uul-uurkhain-bagts-1-3.webp",
+     "w": 500,
+     "h": 352,
+     "thumb": {
+      "src": "/images/p/uul-uurkhain-bagts-1-3-t.webp",
+      "w": 500,
+      "h": 352
+     }
+    }
+   ]
+  },
+  {
+   "id": 981377,
+   "slug": "lego-swat-buren-zevsegtei-tsereg",
+   "name": "LEGO SWAT бүрэн зэвсэгтэй цэрэг",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244293
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 5000,
+   "compareAt": null,
+   "stock": 16,
+   "createdAt": "2026-10-14",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Бүрэн тоногтой",
+    "Бүрэн зэвсэгтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/lego-swat-buren-zevsegtei-tsereg.webp",
+     "w": 1200,
+     "h": 738,
+     "thumb": {
+      "src": "/images/p/lego-swat-buren-zevsegtei-tsereg-t.webp",
+      "w": 520,
+      "h": 320
+     }
+    },
+    {
+     "src": "/images/p/lego-swat-buren-zevsegtei-tsereg-2.webp",
+     "w": 1200,
+     "h": 710,
+     "thumb": {
+      "src": "/images/p/lego-swat-buren-zevsegtei-tsereg-2-t.webp",
+      "w": 520,
+      "h": 308
+     }
+    },
+    {
+     "src": "/images/p/lego-swat-buren-zevsegtei-tsereg-3.webp",
+     "w": 1200,
+     "h": 698,
+     "thumb": {
+      "src": "/images/p/lego-swat-buren-zevsegtei-tsereg-3-t.webp",
+      "w": 520,
+      "h": 303
+     }
+    }
+   ]
+  },
+  {
+   "id": 976292,
+   "slug": "ferrari-499p",
+   "name": "Ferrari 499P",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 239200,
+   "compareAt": 299000,
+   "stock": 1,
+   "createdAt": "2026-10-05",
+   "pieces": 2891,
+   "size": "52×22×12 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ferrari-499p.webp",
+     "w": 522,
+     "h": 481,
+     "thumb": {
+      "src": "/images/p/ferrari-499p-t.webp",
+      "w": 520,
+      "h": 479
+     }
+    },
+    {
+     "src": "/images/p/ferrari-499p-2.webp",
+     "w": 524,
+     "h": 329,
+     "thumb": {
+      "src": "/images/p/ferrari-499p-2-t.webp",
+      "w": 520,
+      "h": 326
+     }
+    },
+    {
+     "src": "/images/p/ferrari-499p-3.webp",
+     "w": 516,
+     "h": 446,
+     "thumb": {
+      "src": "/images/p/ferrari-499p-3-t.webp",
+      "w": 516,
+      "h": 446
+     }
+    },
+    {
+     "src": "/images/p/ferrari-499p-4.webp",
+     "w": 529,
+     "h": 368,
+     "thumb": {
+      "src": "/images/p/ferrari-499p-4-t.webp",
+      "w": 520,
+      "h": 362
+     }
+    },
+    {
+     "src": "/images/p/ferrari-499p-5.webp",
+     "w": 503,
+     "h": 477,
+     "thumb": {
+      "src": "/images/p/ferrari-499p-5-t.webp",
+      "w": 503,
+      "h": 477
+     }
+    }
+   ]
+  },
+  {
+   "id": 976288,
+   "slug": "mclaren-senna-gt",
+   "name": "McLaren Senna GT",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 299000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-10-05",
+   "pieces": 2015,
+   "size": "52×25×13 см",
+   "age": "14+",
+   "scale": null,
+   "features": [
+    "2025 оны шинэ өнгө сувдан цагаан өнгөтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-senna-gt.webp",
+     "w": 1151,
+     "h": 716,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gt-t.webp",
+      "w": 520,
+      "h": 323
+     }
+    },
+    {
+     "src": "/images/p/mclaren-senna-gt-2.webp",
+     "w": 1129,
+     "h": 697,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gt-2-t.webp",
+      "w": 520,
+      "h": 321
+     }
+    },
+    {
+     "src": "/images/p/mclaren-senna-gt-3.webp",
+     "w": 1119,
+     "h": 798,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gt-3-t.webp",
+      "w": 520,
+      "h": 371
+     }
+    },
+    {
+     "src": "/images/p/mclaren-senna-gt-4.webp",
+     "w": 1068,
+     "h": 681,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gt-4-t.webp",
+      "w": 520,
+      "h": 332
+     }
+    }
+   ]
+  },
+  {
+   "id": 969712,
+   "slug": "mclaren-f1-gerel-asdag-jaaz",
+   "name": "McLaren F1 гэрэл асдаг жааз",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [],
+   "brand": null,
+   "sku": null,
+   "price": 180000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-09-29",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "RGB буюу 7 өнгөөр гэрэл асдаг",
+    "Өргөн хүрээтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-f1-gerel-asdag-jaaz.webp",
+     "w": 529,
+     "h": 853,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-gerel-asdag-jaaz-t.webp",
+      "w": 322,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 969707,
+   "slug": "mercedes-benz-f1-frame-gerel-asdag",
+   "name": "Mercedes Benz F1 frame гэрэл асдаг",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 150000,
+   "compareAt": null,
+   "stock": null,
+   "createdAt": "2026-09-29",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэлээ тодруулж бүдэгрүүлэх цагийн тохиргоотой",
+    "Өргөн хүрээтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-f1-frame-gerel-asdag.webp",
+     "w": 444,
+     "h": 715,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-f1-frame-gerel-asdag-t.webp",
+      "w": 323,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 969700,
+   "slug": "lamborghini-sian-frame-gerel-asdag-udirdlagatai",
+   "name": "Lamborghini Sian frame гэрэл асдаг удирдлагатай",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 150000,
+   "compareAt": null,
+   "stock": null,
+   "createdAt": "2026-09-29",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэлээ тод бүдэг болгох болон цагийн тохиргоотой удирдлагатай",
+    "Өргөн хүрээтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/lamborghini-sian-frame-gerel-asdag-udirdlagatai.webp",
+     "w": 599,
+     "h": 942,
+     "thumb": {
+      "src": "/images/p/lamborghini-sian-frame-gerel-asdag-udirdlagatai-t.webp",
+      "w": 331,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 950446,
+   "slug": "uaz-buhanka",
+   "name": "UAZ Buhanka",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320266
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 203150,
+   "compareAt": 239000,
+   "stock": 23,
+   "createdAt": "2026-09-04",
+   "pieces": null,
+   "size": "38×17.5×16 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "🏕️ Scale: 1/12 4WD — 4 дугуй хөтлөгчтэй",
+    "🎮 2.4GHz proportional удирдлага",
+    "🔧 370 brushed motor",
+    "📏 38×17.5×16 см хэмжээтэй"
+   ],
+   "video": "https://www.youtube.com/shorts/CQ_Rgac7C_8",
+   "images": [
+    {
+     "src": "/images/p/uaz-buhanka.webp",
+     "w": 447,
+     "h": 447,
+     "thumb": {
+      "src": "/images/p/uaz-buhanka-t.webp",
+      "w": 447,
+      "h": 447
+     }
+    },
+    {
+     "src": "/images/p/uaz-buhanka-2.webp",
+     "w": 516,
+     "h": 387,
+     "thumb": {
+      "src": "/images/p/uaz-buhanka-2-t.webp",
+      "w": 516,
+      "h": 387
+     }
+    },
+    {
+     "src": "/images/p/uaz-buhanka-3.webp",
+     "w": 801,
+     "h": 801,
+     "thumb": {
+      "src": "/images/p/uaz-buhanka-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 929633,
+   "slug": "mercedes-benz-g500",
+   "name": "Mercedes Benz G500",
+   "category": "lego-cars",
+   "sub": [
+    "jeep"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320123
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 183200,
+   "compareAt": 229000,
+   "stock": 1,
+   "createdAt": "2026-08-17",
+   "pieces": 2891,
+   "size": "46×24×19 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-g500.webp",
+     "w": 736,
+     "h": 736,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-g500-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-g500-2.webp",
+     "w": 720,
+     "h": 900,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-g500-2-t.webp",
+      "w": 416,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-g500-3.webp",
+     "w": 736,
+     "h": 981,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-g500-3-t.webp",
+      "w": 390,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-g500-4.webp",
+     "w": 736,
+     "h": 981,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-g500-4-t.webp",
+      "w": 390,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-g500-5.webp",
+     "w": 1080,
+     "h": 1080,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-g500-5-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 929620,
+   "slug": "bmw-1000rr",
+   "name": "BMW 1000RR",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 159000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-08-17",
+   "pieces": 1920,
+   "size": "45.5×17 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/bmw-1000rr.webp",
+     "w": 736,
+     "h": 1104,
+     "thumb": {
+      "src": "/images/p/bmw-1000rr-t.webp",
+      "w": 347,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/bmw-1000rr-2.webp",
+     "w": 800,
+     "h": 800,
+     "thumb": {
+      "src": "/images/p/bmw-1000rr-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/bmw-1000rr-3.webp",
+     "w": 720,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/bmw-1000rr-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/bmw-1000rr-4.webp",
+     "w": 1200,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/bmw-1000rr-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 896131,
+   "slug": "khoyor-goltoi-avtomat-buu-3",
+   "name": "Хоёр голтой автомат буу 3+",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [],
+   "brand": null,
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 86,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "3000мл усны багтаамжтай",
+    "Цэнэглэдэг зайтай",
+    "Гэрэл асдаг голтой",
+    "6-9м буудах чадалтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-3.webp",
+     "w": 1200,
+     "h": 1078,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-3-t.webp",
+      "w": 520,
+      "h": 467
+     }
+    },
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-3-2.webp",
+     "w": 1200,
+     "h": 1105,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-3-2-t.webp",
+      "w": 520,
+      "h": 479
+     }
+    },
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-3-3.webp",
+     "w": 1177,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-3-3-t.webp",
+      "w": 510,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 896095,
+   "slug": "khoyor-goltoi-avtomat-buu",
+   "name": "Хоёр голтой автомат буу",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [],
+   "brand": null,
+   "sku": null,
+   "price": 179000,
+   "compareAt": null,
+   "stock": 19,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "3000мл усны үүргэвчтэй",
+    "Цэнэглэдэг зайтай",
+    "Гэрэл асдаг голтой",
+    "8-10м буудах чадалтай"
+   ],
+   "video": "https://www.youtube.com/shorts/wW8Og_iP7wo",
+   "images": [
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu.webp",
+     "w": 679,
+     "h": 679,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-2.webp",
+     "w": 1200,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-3.webp",
+     "w": 1200,
+     "h": 1078,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-3-t.webp",
+      "w": 520,
+      "h": 467
+     }
+    },
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-4.webp",
+     "w": 679,
+     "h": 679,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/khoyor-goltoi-avtomat-buu-5.webp",
+     "w": 679,
+     "h": 679,
+     "thumb": {
+      "src": "/images/p/khoyor-goltoi-avtomat-buu-5-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 896090,
+   "slug": "excavator-udirdlagatai",
+   "name": "Excavator удирдлагатай",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 59000,
+   "compareAt": null,
+   "stock": 23,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": "38×11×22 см",
+   "age": null,
+   "scale": "1:24",
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "Төмөр шанагатай",
+    "1/24 харьцаатай 9 үйлдэлтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/excavator-udirdlagatai.webp",
+     "w": 757,
+     "h": 689,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-t.webp",
+      "w": 520,
+      "h": 473
+     }
+    },
+    {
+     "src": "/images/p/excavator-udirdlagatai-2.webp",
+     "w": 909,
+     "h": 906,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-2-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    },
+    {
+     "src": "/images/p/excavator-udirdlagatai-3.webp",
+     "w": 906,
+     "h": 896,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-3-t.webp",
+      "w": 520,
+      "h": 514
+     }
+    },
+    {
+     "src": "/images/p/excavator-udirdlagatai-4.webp",
+     "w": 901,
+     "h": 903,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-4-t.webp",
+      "w": 519,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/excavator-udirdlagatai-5.webp",
+     "w": 907,
+     "h": 903,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-5-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    }
+   ]
+  },
+  {
+   "id": 896080,
+   "slug": "bulldozer-udirdlagatai",
+   "name": "Bulldozer удирдлагатай",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 161100,
+   "compareAt": 179000,
+   "stock": 12,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": "35×20×16 см",
+   "age": null,
+   "scale": "1:16",
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 25-35минут тоглоно",
+    "1/16 харьцаатай 15 үйлдэлтэй"
+   ],
+   "video": "https://www.youtube.com/shorts/Pata_HIV6eI",
+   "images": [
+    {
+     "src": "/images/p/bulldozer-udirdlagatai.webp",
+     "w": 900,
+     "h": 600,
+     "thumb": {
+      "src": "/images/p/bulldozer-udirdlagatai-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/bulldozer-udirdlagatai-2.webp",
+     "w": 900,
+     "h": 600,
+     "thumb": {
+      "src": "/images/p/bulldozer-udirdlagatai-2-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/bulldozer-udirdlagatai-3.webp",
+     "w": 900,
+     "h": 600,
+     "thumb": {
+      "src": "/images/p/bulldozer-udirdlagatai-3-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/bulldozer-udirdlagatai-4.webp",
+     "w": 900,
+     "h": 600,
+     "thumb": {
+      "src": "/images/p/bulldozer-udirdlagatai-4-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    }
+   ]
+  },
+  {
+   "id": 896076,
+   "slug": "goliat-uuruu-buulgagch",
+   "name": "Goliat өөрөө буулгагч",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 143200,
+   "compareAt": 179000,
+   "stock": 12,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": "45×17×23 см",
+   "age": null,
+   "scale": "1:16",
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "2.5кг өргөж буулгах чадалтай",
+    "Нэг цэнэглэлтээр 20-25минут тоглоно",
+    "1/16 харьцаатай 11 үйлдэлтэй"
+   ],
+   "video": "https://www.youtube.com/watch?v=j_Ek-53oA6A&t=49s",
+   "images": [
+    {
+     "src": "/images/p/goliat-uuruu-buulgagch.webp",
+     "w": 771,
+     "h": 771,
+     "thumb": {
+      "src": "/images/p/goliat-uuruu-buulgagch-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/goliat-uuruu-buulgagch-2.webp",
+     "w": 771,
+     "h": 771,
+     "thumb": {
+      "src": "/images/p/goliat-uuruu-buulgagch-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/goliat-uuruu-buulgagch-3.webp",
+     "w": 771,
+     "h": 771,
+     "thumb": {
+      "src": "/images/p/goliat-uuruu-buulgagch-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/goliat-uuruu-buulgagch-4.webp",
+     "w": 771,
+     "h": 771,
+     "thumb": {
+      "src": "/images/p/goliat-uuruu-buulgagch-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 896068,
+   "slug": "howo-uuruu-buulgagch",
+   "name": "HOWO өөрөө буулгагч",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 21,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": "33×12×17 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "1,5кг өргөж буулгах чадалтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/howo-uuruu-buulgagch.webp",
+     "w": 823,
+     "h": 823,
+     "thumb": {
+      "src": "/images/p/howo-uuruu-buulgagch-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/howo-uuruu-buulgagch-2.webp",
+     "w": 823,
+     "h": 823,
+     "thumb": {
+      "src": "/images/p/howo-uuruu-buulgagch-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/howo-uuruu-buulgagch-3.webp",
+     "w": 823,
+     "h": 823,
+     "thumb": {
+      "src": "/images/p/howo-uuruu-buulgagch-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 896061,
+   "slug": "tsamkhagt-kran",
+   "name": "Цамхагт кран",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 179100,
+   "compareAt": 199000,
+   "stock": 11,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": "120×92×34 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35 минут тоглоно",
+    "Төмөр шанагатай",
+    "12 үйлдэлтэй зөөлөн утсан тросстой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/tsamkhagt-kran.webp",
+     "w": 700,
+     "h": 726,
+     "thumb": {
+      "src": "/images/p/tsamkhagt-kran-t.webp",
+      "w": 501,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/tsamkhagt-kran-2.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/tsamkhagt-kran-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/tsamkhagt-kran-3.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/tsamkhagt-kran-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/tsamkhagt-kran-4.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/tsamkhagt-kran-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 895991,
+   "slug": "excavator-udirdlagatai-895991",
+   "name": "Excavator удирдлагатай",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 186150,
+   "compareAt": 219000,
+   "stock": 12,
+   "createdAt": "2026-06-07",
+   "pieces": null,
+   "size": "30×45×17 см",
+   "age": null,
+   "scale": "1:14",
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "Төмөр шанагатай",
+    "1/14 харьцаатай 15 үйлдэлтэй"
+   ],
+   "video": "https://www.youtube.com/watch?v=51yK2dWjeXE",
+   "images": [
+    {
+     "src": "/images/p/excavator-udirdlagatai-895991.webp",
+     "w": 700,
+     "h": 443,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-895991-t.webp",
+      "w": 520,
+      "h": 329
+     }
+    },
+    {
+     "src": "/images/p/excavator-udirdlagatai-895991-2.webp",
+     "w": 600,
+     "h": 600,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-895991-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/excavator-udirdlagatai-895991-3.webp",
+     "w": 1200,
+     "h": 975,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-895991-3-t.webp",
+      "w": 520,
+      "h": 423
+     }
+    }
+   ]
+  },
+  {
+   "id": 892834,
+   "slug": "udirdlagatai-nisdeg-tereg",
+   "name": "Удирдлагатай нисдэг тэрэг",
+   "category": "rc",
+   "sub": [
+    "air-water"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320267
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 72,
+   "createdAt": "2026-05-31",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Удирдлагатай болон мэдрэгчтэй 2 тарал бга",
+    "Цэнэглэдэг зайтай",
+    "3,5м хүртэл хөөрөх чадалтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/udirdlagatai-nisdeg-tereg.webp",
+     "w": 1200,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-nisdeg-tereg-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-nisdeg-tereg-2.webp",
+     "w": 1200,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-nisdeg-tereg-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-nisdeg-tereg-3.webp",
+     "w": 1200,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-nisdeg-tereg-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-nisdeg-tereg-4.webp",
+     "w": 1200,
+     "h": 1200,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-nisdeg-tereg-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 892830,
+   "slug": "rc-boat-jijig",
+   "name": "RC Boat жижиг",
+   "category": "rc",
+   "sub": [
+    "air-water"
+   ],
+   "zochilCategoryIds": [
+    320267,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 35000,
+   "compareAt": null,
+   "stock": 54,
+   "createdAt": "2026-05-31",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Bанн болон усанд тоглох боломжтой",
+    "Цэнэглэдэг зайтай",
+    "Усанд шумбах горимтой",
+    "Удирдах зай 25-40м",
+    "Цэнэгээрээ 20минут тоглоно"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/rc-boat-jijig.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/rc-boat-jijig-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/rc-boat-jijig-2.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/rc-boat-jijig-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/rc-boat-jijig-3.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/rc-boat-jijig-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/rc-boat-jijig-4.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/rc-boat-jijig-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/rc-boat-jijig-5.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/rc-boat-jijig-5-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/rc-boat-jijig-6.webp",
+     "w": 700,
+     "h": 700,
+     "thumb": {
+      "src": "/images/p/rc-boat-jijig-6-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 890001,
+   "slug": "concorde",
+   "name": "Concorde",
+   "category": "military",
+   "sub": [
+    "aircraft"
+   ],
+   "zochilCategoryIds": [
+    244292
+   ],
+   "brand": "Icons",
+   "sku": null,
+   "price": 189000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-05-24",
+   "pieces": 2083,
+   "size": "102×43×15 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Дугуйгаа эвхдэг"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/concorde.webp",
+     "w": 1200,
+     "h": 912,
+     "thumb": {
+      "src": "/images/p/concorde-t.webp",
+      "w": 520,
+      "h": 395
+     }
+    },
+    {
+     "src": "/images/p/concorde-2.webp",
+     "w": 1200,
+     "h": 800,
+     "thumb": {
+      "src": "/images/p/concorde-2-t.webp",
+      "w": 520,
+      "h": 346
+     }
+    },
+    {
+     "src": "/images/p/concorde-3.webp",
+     "w": 1200,
+     "h": 800,
+     "thumb": {
+      "src": "/images/p/concorde-3-t.webp",
+      "w": 520,
+      "h": 346
+     }
+    },
+    {
+     "src": "/images/p/concorde-4.webp",
+     "w": 1200,
+     "h": 839,
+     "thumb": {
+      "src": "/images/p/concorde-4-t.webp",
+      "w": 520,
+      "h": 363
+     }
+    }
+   ]
+  },
+  {
+   "id": 889996,
+   "slug": "mclaren-senna-gtr-dark-knight",
+   "name": "McLaren Senna GTR Dark Knight",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 167200,
+   "compareAt": 209000,
+   "stock": 2,
+   "createdAt": "2026-05-24",
+   "pieces": 2088,
+   "size": "49.2×13.7×18 см",
+   "age": "8+",
+   "scale": null,
+   "features": [
+    "Мотор тавьж тоноглох боломжтой"
+   ],
+   "video": "https://www.youtube.com/watch?v=yo-8hs4mrUw",
+   "images": [
+    {
+     "src": "/images/p/mclaren-senna-gtr-dark-knight.webp",
+     "w": 713,
+     "h": 446,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gtr-dark-knight-t.webp",
+      "w": 520,
+      "h": 325
+     }
+    },
+    {
+     "src": "/images/p/mclaren-senna-gtr-dark-knight-2.webp",
+     "w": 713,
+     "h": 715,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gtr-dark-knight-2-t.webp",
+      "w": 519,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mclaren-senna-gtr-dark-knight-3.webp",
+     "w": 714,
+     "h": 618,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gtr-dark-knight-3-t.webp",
+      "w": 520,
+      "h": 450
+     }
+    },
+    {
+     "src": "/images/p/mclaren-senna-gtr-dark-knight-4.webp",
+     "w": 707,
+     "h": 672,
+     "thumb": {
+      "src": "/images/p/mclaren-senna-gtr-dark-knight-4-t.webp",
+      "w": 520,
+      "h": 494
+     }
+    }
+   ]
+  },
+  {
+   "id": 889994,
+   "slug": "porsche-919-la-mania",
+   "name": "Porsche 919 La Mania",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    320121,
+    243057
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 159200,
+   "compareAt": 199000,
+   "stock": 2,
+   "createdAt": "2026-05-24",
+   "pieces": 1586,
+   "size": "48.5×13×19 см",
+   "age": "8+",
+   "scale": null,
+   "features": [
+    "Мотор тавьж тоноглох боломжтой"
+   ],
+   "video": "https://www.youtube.com/watch?v=NOXrcnmUPCY",
+   "images": [
+    {
+     "src": "/images/p/porsche-919-la-mania.webp",
+     "w": 1200,
+     "h": 690,
+     "thumb": {
+      "src": "/images/p/porsche-919-la-mania-t.webp",
+      "w": 520,
+      "h": 299
+     }
+    },
+    {
+     "src": "/images/p/porsche-919-la-mania-2.webp",
+     "w": 1200,
+     "h": 652,
+     "thumb": {
+      "src": "/images/p/porsche-919-la-mania-2-t.webp",
+      "w": 520,
+      "h": 282
+     }
+    },
+    {
+     "src": "/images/p/porsche-919-la-mania-3.webp",
+     "w": 1200,
+     "h": 682,
+     "thumb": {
+      "src": "/images/p/porsche-919-la-mania-3-t.webp",
+      "w": 520,
+      "h": 295
+     }
+    },
+    {
+     "src": "/images/p/porsche-919-la-mania-4.webp",
+     "w": 1200,
+     "h": 604,
+     "thumb": {
+      "src": "/images/p/porsche-919-la-mania-4-t.webp",
+      "w": 520,
+      "h": 262
+     }
+    }
+   ]
+  },
+  {
+   "id": 889992,
+   "slug": "pagani-senna",
+   "name": "Pagani Senna",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 239200,
+   "compareAt": 299000,
+   "stock": 1,
+   "createdAt": "2026-05-24",
+   "pieces": 2015,
+   "size": "48×21×12.7 см",
+   "age": "14+",
+   "scale": null,
+   "features": [
+    "Мотор тавьж тоноглох боломжтой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/pagani-senna.webp",
+     "w": 1000,
+     "h": 1000,
+     "thumb": {
+      "src": "/images/p/pagani-senna-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/pagani-senna-2.webp",
+     "w": 715,
+     "h": 708,
+     "thumb": {
+      "src": "/images/p/pagani-senna-2-t.webp",
+      "w": 520,
+      "h": 515
+     }
+    },
+    {
+     "src": "/images/p/pagani-senna-3.webp",
+     "w": 706,
+     "h": 701,
+     "thumb": {
+      "src": "/images/p/pagani-senna-3-t.webp",
+      "w": 520,
+      "h": 516
+     }
+    },
+    {
+     "src": "/images/p/pagani-senna-4.webp",
+     "w": 712,
+     "h": 668,
+     "thumb": {
+      "src": "/images/p/pagani-senna-4-t.webp",
+      "w": 520,
+      "h": 488
+     }
+    }
+   ]
+  },
+  {
+   "id": 889986,
+   "slug": "lamborghini-essenza-scv12",
+   "name": "Lamborghini Essenza SCV12",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 239200,
+   "compareAt": 299000,
+   "stock": 1,
+   "createdAt": "2026-05-24",
+   "pieces": 1889,
+   "size": "53.2×22×13.5 см",
+   "age": "14+",
+   "scale": null,
+   "features": [
+    "Мотор тавьж тоноглох боломжтой"
+   ],
+   "video": "https://www.youtube.com/watch?v=pvqSe4lY84U",
+   "images": [
+    {
+     "src": "/images/p/lamborghini-essenza-scv12.webp",
+     "w": 1000,
+     "h": 1000,
+     "thumb": {
+      "src": "/images/p/lamborghini-essenza-scv12-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/lamborghini-essenza-scv12-2.webp",
+     "w": 1000,
+     "h": 1000,
+     "thumb": {
+      "src": "/images/p/lamborghini-essenza-scv12-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/lamborghini-essenza-scv12-3.webp",
+     "w": 1000,
+     "h": 1000,
+     "thumb": {
+      "src": "/images/p/lamborghini-essenza-scv12-3-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 888248,
+   "slug": "land-cruiser-250",
+   "name": "Land Cruiser 250",
+   "category": "lego-cars",
+   "sub": [
+    "jeep"
+   ],
+   "zochilCategoryIds": [
+    320123
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 209300,
+   "compareAt": 299000,
+   "stock": 1,
+   "createdAt": "2026-05-20",
+   "pieces": 586,
+   "size": "32.8×15.4×14.2 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Мотортой удирдлагатай загвар",
+    "Хүнд хөнгөн 2 тохиргоотой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-cruiser-250.webp",
+     "w": 500,
+     "h": 439,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-t.webp",
+      "w": 500,
+      "h": 439
+     }
+    },
+    {
+     "src": "/images/p/land-cruiser-250-2.webp",
+     "w": 746,
+     "h": 463,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-2-t.webp",
+      "w": 520,
+      "h": 323
+     }
+    },
+    {
+     "src": "/images/p/land-cruiser-250-3.webp",
+     "w": 697,
+     "h": 505,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-3-t.webp",
+      "w": 520,
+      "h": 377
+     }
+    },
+    {
+     "src": "/images/p/land-cruiser-250-4.webp",
+     "w": 755,
+     "h": 568,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-4-t.webp",
+      "w": 520,
+      "h": 391
+     }
+    }
+   ]
+  },
+  {
+   "id": 875352,
+   "slug": "ferrari-f1-frame",
+   "name": "Ferrari F1 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-28",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ferrari-f1-frame.webp",
+     "w": 448,
+     "h": 711,
+     "thumb": {
+      "src": "/images/p/ferrari-f1-frame-t.webp",
+      "w": 328,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 875350,
+   "slug": "mclaren-f1-mcl39-frame",
+   "name": "McLaren F1 MCL39 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-28",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-f1-mcl39-frame.webp",
+     "w": 502,
+     "h": 795,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-mcl39-frame-t.webp",
+      "w": 328,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 875348,
+   "slug": "mercedes-benz-f1-frame",
+   "name": "Mercedes Benz F1 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-28",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-f1-frame.webp",
+     "w": 593,
+     "h": 947,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-f1-frame-t.webp",
+      "w": 326,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 875347,
+   "slug": "redbull-f1-frame",
+   "name": "RedBull F1 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-28",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/redbull-f1-frame.webp",
+     "w": 538,
+     "h": 863,
+     "thumb": {
+      "src": "/images/p/redbull-f1-frame-t.webp",
+      "w": 324,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 875345,
+   "slug": "mercedes-benz-f1-frame-875345",
+   "name": "Mercedes Benz F1 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-28",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-f1-frame-875345.webp",
+     "w": 592,
+     "h": 956,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-f1-frame-875345-t.webp",
+      "w": 322,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 875344,
+   "slug": "mclaren-f1",
+   "name": "McLaren F1",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-28",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-f1.webp",
+     "w": 548,
+     "h": 910,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-t.webp",
+      "w": 313,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868932,
+   "slug": "6-uildeltei-eksvator",
+   "name": "6 үйлдэлтэй эксватор",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320241
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 59000,
+   "compareAt": null,
+   "stock": 10,
+   "createdAt": "2026-04-21",
+   "pieces": null,
+   "size": "35×13×17.5 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "Төмөр шанагатай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/6-uildeltei-eksvator.webp",
+     "w": 850,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/6-uildeltei-eksvator-t.webp",
+      "w": 520,
+      "h": 440
+     }
+    }
+   ]
+  },
+  {
+   "id": 868930,
+   "slug": "6-uildeltei-kovsh",
+   "name": "6 үйлдэлтэй ковш",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 59000,
+   "compareAt": null,
+   "stock": 10,
+   "createdAt": "2026-04-21",
+   "pieces": null,
+   "size": "30×12×12 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "Байнгын 4х4 хөтлөгчэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/6-uildeltei-kovsh.webp",
+     "w": 1024,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/6-uildeltei-kovsh-t.webp",
+      "w": 520,
+      "h": 366
+     }
+    },
+    {
+     "src": "/images/p/6-uildeltei-kovsh-2.webp",
+     "w": 902,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/6-uildeltei-kovsh-2-t.webp",
+      "w": 520,
+      "h": 415
+     }
+    },
+    {
+     "src": "/images/p/6-uildeltei-kovsh-3.webp",
+     "w": 1086,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/6-uildeltei-kovsh-3-t.webp",
+      "w": 520,
+      "h": 345
+     }
+    },
+    {
+     "src": "/images/p/6-uildeltei-kovsh-4.webp",
+     "w": 947,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/6-uildeltei-kovsh-4-t.webp",
+      "w": 520,
+      "h": 395
+     }
+    }
+   ]
+  },
+  {
+   "id": 868880,
+   "slug": "toyota-gr-supra-gt4",
+   "name": "Toyota GR Supra GT4",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 75000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-21",
+   "pieces": 324,
+   "size": "16×7.2×4.1 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-gr-supra-gt4.webp",
+     "w": 372,
+     "h": 324,
+     "thumb": {
+      "src": "/images/p/toyota-gr-supra-gt4-t.webp",
+      "w": 372,
+      "h": 324
+     }
+    },
+    {
+     "src": "/images/p/toyota-gr-supra-gt4-2.webp",
+     "w": 730,
+     "h": 460,
+     "thumb": {
+      "src": "/images/p/toyota-gr-supra-gt4-2-t.webp",
+      "w": 520,
+      "h": 328
+     }
+    },
+    {
+     "src": "/images/p/toyota-gr-supra-gt4-3.webp",
+     "w": 388,
+     "h": 393,
+     "thumb": {
+      "src": "/images/p/toyota-gr-supra-gt4-3-t.webp",
+      "w": 388,
+      "h": 393
+     }
+    }
+   ]
+  },
+  {
+   "id": 868878,
+   "slug": "toyota-trueno-ae86",
+   "name": "Toyota Trueno AE86",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 50000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-21",
+   "pieces": 285,
+   "size": "15.5×10.3×5.3 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-trueno-ae86.webp",
+     "w": 720,
+     "h": 753,
+     "thumb": {
+      "src": "/images/p/toyota-trueno-ae86-t.webp",
+      "w": 497,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/toyota-trueno-ae86-2.webp",
+     "w": 722,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/toyota-trueno-ae86-2-t.webp",
+      "w": 520,
+      "h": 519
+     }
+    },
+    {
+     "src": "/images/p/toyota-trueno-ae86-3.webp",
+     "w": 720,
+     "h": 731,
+     "thumb": {
+      "src": "/images/p/toyota-trueno-ae86-3-t.webp",
+      "w": 512,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/toyota-trueno-ae86-4.webp",
+     "w": 729,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/toyota-trueno-ae86-4-t.webp",
+      "w": 520,
+      "h": 514
+     }
+    }
+   ]
+  },
+  {
+   "id": 868876,
+   "slug": "ford-shelby-gt350h",
+   "name": "Ford Shelby GT350H",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 40000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-21",
+   "pieces": 285,
+   "size": "16×4.8×7.5 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ford-shelby-gt350h.webp",
+     "w": 549,
+     "h": 473,
+     "thumb": {
+      "src": "/images/p/ford-shelby-gt350h-t.webp",
+      "w": 520,
+      "h": 448
+     }
+    },
+    {
+     "src": "/images/p/ford-shelby-gt350h-2.webp",
+     "w": 546,
+     "h": 546,
+     "thumb": {
+      "src": "/images/p/ford-shelby-gt350h-2-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/ford-shelby-gt350h-3.webp",
+     "w": 547,
+     "h": 524,
+     "thumb": {
+      "src": "/images/p/ford-shelby-gt350h-3-t.webp",
+      "w": 520,
+      "h": 498
+     }
+    }
+   ]
+  },
+  {
+   "id": 868861,
+   "slug": "maserati-gt2",
+   "name": "Maserati GT2",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 40000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-21",
+   "pieces": 240,
+   "size": "15.5×4.4×7.5 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/maserati-gt2.webp",
+     "w": 1050,
+     "h": 1018,
+     "thumb": {
+      "src": "/images/p/maserati-gt2-t.webp",
+      "w": 520,
+      "h": 504
+     }
+    },
+    {
+     "src": "/images/p/maserati-gt2-2.webp",
+     "w": 1011,
+     "h": 1139,
+     "thumb": {
+      "src": "/images/p/maserati-gt2-2-t.webp",
+      "w": 462,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/maserati-gt2-3.webp",
+     "w": 1049,
+     "h": 1057,
+     "thumb": {
+      "src": "/images/p/maserati-gt2-3-t.webp",
+      "w": 516,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/maserati-gt2-4.webp",
+     "w": 1047,
+     "h": 1046,
+     "thumb": {
+      "src": "/images/p/maserati-gt2-4-t.webp",
+      "w": 520,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868848,
+   "slug": "audi-r",
+   "name": "Audi R",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 40000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-21",
+   "pieces": 199,
+   "size": "14.5×4.2×7.5 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/audi-r.webp",
+     "w": 464,
+     "h": 354,
+     "thumb": {
+      "src": "/images/p/audi-r-t.webp",
+      "w": 464,
+      "h": 354
+     }
+    },
+    {
+     "src": "/images/p/audi-r-2.webp",
+     "w": 462,
+     "h": 396,
+     "thumb": {
+      "src": "/images/p/audi-r-2-t.webp",
+      "w": 462,
+      "h": 396
+     }
+    },
+    {
+     "src": "/images/p/audi-r-3.webp",
+     "w": 463,
+     "h": 352,
+     "thumb": {
+      "src": "/images/p/audi-r-3-t.webp",
+      "w": 463,
+      "h": 352
+     }
+    },
+    {
+     "src": "/images/p/audi-r-4.webp",
+     "w": 462,
+     "h": 344,
+     "thumb": {
+      "src": "/images/p/audi-r-4-t.webp",
+      "w": 462,
+      "h": 344
+     }
+    }
+   ]
+  },
+  {
+   "id": 868843,
+   "slug": "lotus-exige-cup430",
+   "name": "Lotus Exige Cup430",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 40000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-21",
+   "pieces": null,
+   "size": "15.4×4.8×7.5 см",
+   "age": "8+",
+   "scale": null,
+   "features": [
+    "Тоо ширхэг- 319"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/lotus-exige-cup430.webp",
+     "w": 634,
+     "h": 511,
+     "thumb": {
+      "src": "/images/p/lotus-exige-cup430-t.webp",
+      "w": 520,
+      "h": 419
+     }
+    },
+    {
+     "src": "/images/p/lotus-exige-cup430-2.webp",
+     "w": 660,
+     "h": 480,
+     "thumb": {
+      "src": "/images/p/lotus-exige-cup430-2-t.webp",
+      "w": 520,
+      "h": 378
+     }
+    },
+    {
+     "src": "/images/p/lotus-exige-cup430-3.webp",
+     "w": 656,
+     "h": 525,
+     "thumb": {
+      "src": "/images/p/lotus-exige-cup430-3-t.webp",
+      "w": 520,
+      "h": 416
+     }
+    },
+    {
+     "src": "/images/p/lotus-exige-cup430-4.webp",
+     "w": 637,
+     "h": 507,
+     "thumb": {
+      "src": "/images/p/lotus-exige-cup430-4-t.webp",
+      "w": 520,
+      "h": 414
+     }
+    }
+   ]
+  },
+  {
+   "id": 868833,
+   "slug": "humvee-military-car",
+   "name": "Humvee military car",
+   "category": "6-stud",
+   "sub": [],
+   "zochilCategoryIds": [
+    321021
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 40000,
+   "compareAt": null,
+   "stock": 4,
+   "createdAt": "2026-04-21",
+   "pieces": 328,
+   "size": "16×66.6×7.2 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/humvee-military-car.webp",
+     "w": 519,
+     "h": 425,
+     "thumb": {
+      "src": "/images/p/humvee-military-car-t.webp",
+      "w": 519,
+      "h": 425
+     }
+    },
+    {
+     "src": "/images/p/humvee-military-car-2.webp",
+     "w": 519,
+     "h": 450,
+     "thumb": {
+      "src": "/images/p/humvee-military-car-2-t.webp",
+      "w": 519,
+      "h": 450
+     }
+    },
+    {
+     "src": "/images/p/humvee-military-car-3.webp",
+     "w": 520,
+     "h": 529,
+     "thumb": {
+      "src": "/images/p/humvee-military-car-3-t.webp",
+      "w": 511,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/humvee-military-car-4.webp",
+     "w": 524,
+     "h": 522,
+     "thumb": {
+      "src": "/images/p/humvee-military-car-4-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    },
+    {
+     "src": "/images/p/humvee-military-car-5.webp",
+     "w": 522,
+     "h": 523,
+     "thumb": {
+      "src": "/images/p/humvee-military-car-5-t.webp",
+      "w": 519,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868813,
+   "slug": "gereltdeg-lego-selem",
+   "name": "Гэрэлтдэг LEGO сэлэм",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 59400,
+   "compareAt": 99000,
+   "stock": 2,
+   "createdAt": "2026-04-21",
+   "pieces": 803,
+   "size": "88.2×13.1×7.7 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "Шөнө гэрэлтдэг загвар"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/gereltdeg-lego-selem.webp",
+     "w": 825,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-t.webp",
+      "w": 520,
+      "h": 454
+     }
+    },
+    {
+     "src": "/images/p/gereltdeg-lego-selem-2.webp",
+     "w": 906,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-2-t.webp",
+      "w": 520,
+      "h": 413
+     }
+    },
+    {
+     "src": "/images/p/gereltdeg-lego-selem-3.webp",
+     "w": 907,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-3-t.webp",
+      "w": 520,
+      "h": 413
+     }
+    }
+   ]
+  },
+  {
+   "id": 868804,
+   "slug": "gereltdeg-lego-selem-868804",
+   "name": "Гэрэлтдэг LEGO сэлэм",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 59400,
+   "compareAt": 99000,
+   "stock": 3,
+   "createdAt": "2026-04-21",
+   "pieces": 936,
+   "size": "98.8×13.8×9.23 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "Шөнө гэрэлтдэг"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/gereltdeg-lego-selem-868804.webp",
+     "w": 743,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-868804-t.webp",
+      "w": 520,
+      "h": 504
+     }
+    },
+    {
+     "src": "/images/p/gereltdeg-lego-selem-868804-2.webp",
+     "w": 850,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-868804-2-t.webp",
+      "w": 520,
+      "h": 440
+     }
+    },
+    {
+     "src": "/images/p/gereltdeg-lego-selem-868804-3.webp",
+     "w": 1200,
+     "h": 664,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-868804-3-t.webp",
+      "w": 520,
+      "h": 288
+     }
+    },
+    {
+     "src": "/images/p/gereltdeg-lego-selem-868804-4.webp",
+     "w": 945,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-868804-4-t.webp",
+      "w": 520,
+      "h": 396
+     }
+    },
+    {
+     "src": "/images/p/gereltdeg-lego-selem-868804-5.webp",
+     "w": 743,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/gereltdeg-lego-selem-868804-5-t.webp",
+      "w": 520,
+      "h": 504
+     }
+    }
+   ]
+  },
+  {
+   "id": 868425,
+   "slug": "ferrari-sf24",
+   "name": "Ferrari Sf24",
+   "category": "lego-cars",
+   "sub": [
+    "f1"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320122
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 199000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-21",
+   "pieces": 1361,
+   "size": "61×24×21 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ferrari-sf24.webp",
+     "w": 1200,
+     "h": 800,
+     "thumb": {
+      "src": "/images/p/ferrari-sf24-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/ferrari-sf24-2.webp",
+     "w": 1200,
+     "h": 675,
+     "thumb": {
+      "src": "/images/p/ferrari-sf24-2-t.webp",
+      "w": 520,
+      "h": 293
+     }
+    },
+    {
+     "src": "/images/p/ferrari-sf24-3.webp",
+     "w": 1200,
+     "h": 675,
+     "thumb": {
+      "src": "/images/p/ferrari-sf24-3-t.webp",
+      "w": 520,
+      "h": 293
+     }
+    },
+    {
+     "src": "/images/p/ferrari-sf24-4.webp",
+     "w": 875,
+     "h": 371,
+     "thumb": {
+      "src": "/images/p/ferrari-sf24-4-t.webp",
+      "w": 520,
+      "h": 220
+     }
+    },
+    {
+     "src": "/images/p/ferrari-sf24-5.webp",
+     "w": 524,
+     "h": 464,
+     "thumb": {
+      "src": "/images/p/ferrari-sf24-5-t.webp",
+      "w": 520,
+      "h": 460
+     }
+    }
+   ]
+  },
+  {
+   "id": 868398,
+   "slug": "mclaren-f1-mcl39",
+   "name": "McLaren F1 MCL39",
+   "category": "lego-cars",
+   "sub": [
+    "f1"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320122
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 143200,
+   "compareAt": 179000,
+   "stock": 5,
+   "createdAt": "2026-04-21",
+   "pieces": 1675,
+   "size": "61×25×13 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-f1-mcl39.webp",
+     "w": 804,
+     "h": 624,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-mcl39-t.webp",
+      "w": 520,
+      "h": 404
+     }
+    },
+    {
+     "src": "/images/p/mclaren-f1-mcl39-2.webp",
+     "w": 780,
+     "h": 502,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-mcl39-2-t.webp",
+      "w": 520,
+      "h": 335
+     }
+    },
+    {
+     "src": "/images/p/mclaren-f1-mcl39-3.webp",
+     "w": 787,
+     "h": 505,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-mcl39-3-t.webp",
+      "w": 520,
+      "h": 334
+     }
+    },
+    {
+     "src": "/images/p/mclaren-f1-mcl39-4.webp",
+     "w": 500,
+     "h": 220,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-mcl39-4-t.webp",
+      "w": 500,
+      "h": 220
+     }
+    }
+   ]
+  },
+  {
+   "id": 868397,
+   "slug": "pagani-zonda-r-phantom-wing",
+   "name": "Pagani Zonda R Phantom Wing",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 239200,
+   "compareAt": 299000,
+   "stock": 1,
+   "createdAt": "2026-04-21",
+   "pieces": 1871,
+   "size": "53.8×24.5×13.3 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/pagani-zonda-r-phantom-wing.webp",
+     "w": 500,
+     "h": 288,
+     "thumb": {
+      "src": "/images/p/pagani-zonda-r-phantom-wing-t.webp",
+      "w": 500,
+      "h": 288
+     }
+    },
+    {
+     "src": "/images/p/pagani-zonda-r-phantom-wing-2.webp",
+     "w": 778,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/pagani-zonda-r-phantom-wing-2-t.webp",
+      "w": 520,
+      "h": 481
+     }
+    },
+    {
+     "src": "/images/p/pagani-zonda-r-phantom-wing-3.webp",
+     "w": 1001,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/pagani-zonda-r-phantom-wing-3-t.webp",
+      "w": 520,
+      "h": 374
+     }
+    }
+   ]
+  },
+  {
+   "id": 868386,
+   "slug": "pagani-imola",
+   "name": "Pagani Imola",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 299000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-21",
+   "pieces": 3333,
+   "size": "58.5×31.9×15 см",
+   "age": "8+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/pagani-imola.webp",
+     "w": 500,
+     "h": 304,
+     "thumb": {
+      "src": "/images/p/pagani-imola-t.webp",
+      "w": 500,
+      "h": 304
+     }
+    },
+    {
+     "src": "/images/p/pagani-imola-2.webp",
+     "w": 802,
+     "h": 500,
+     "thumb": {
+      "src": "/images/p/pagani-imola-2-t.webp",
+      "w": 520,
+      "h": 324
+     }
+    }
+   ]
+  },
+  {
+   "id": 868376,
+   "slug": "la-ferrari-viva-hypercar",
+   "name": "La Ferrari Viva Hypercar",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 419000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-21",
+   "pieces": 4739,
+   "size": "59.7×27.3×14.6 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/la-ferrari-viva-hypercar.webp",
+     "w": 500,
+     "h": 398,
+     "thumb": {
+      "src": "/images/p/la-ferrari-viva-hypercar-t.webp",
+      "w": 500,
+      "h": 398
+     }
+    },
+    {
+     "src": "/images/p/la-ferrari-viva-hypercar-2.webp",
+     "w": 921,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/la-ferrari-viva-hypercar-2-t.webp",
+      "w": 520,
+      "h": 407
+     }
+    },
+    {
+     "src": "/images/p/la-ferrari-viva-hypercar-3.webp",
+     "w": 720,
+     "h": 1013,
+     "thumb": {
+      "src": "/images/p/la-ferrari-viva-hypercar-3-t.webp",
+      "w": 370,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/la-ferrari-viva-hypercar-4.webp",
+     "w": 1200,
+     "h": 679,
+     "thumb": {
+      "src": "/images/p/la-ferrari-viva-hypercar-4-t.webp",
+      "w": 520,
+      "h": 294
+     }
+    }
+   ]
+  },
+  {
+   "id": 868372,
+   "slug": "mazda-787b",
+   "name": "Mazda 787B",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": "CADFI",
+   "sku": null,
+   "price": 239200,
+   "compareAt": 299000,
+   "stock": 1,
+   "createdAt": "2026-04-21",
+   "pieces": 1797,
+   "size": "50.4×23.4×11.4 см",
+   "age": "8+",
+   "scale": null,
+   "features": [
+    "Мотор тавьж тоноглох боломжтой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mazda-787b.webp",
+     "w": 1018,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mazda-787b-t.webp",
+      "w": 520,
+      "h": 368
+     }
+    },
+    {
+     "src": "/images/p/mazda-787b-2.webp",
+     "w": 500,
+     "h": 383,
+     "thumb": {
+      "src": "/images/p/mazda-787b-2-t.webp",
+      "w": 500,
+      "h": 383
+     }
+    },
+    {
+     "src": "/images/p/mazda-787b-3.webp",
+     "w": 1080,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mazda-787b-3-t.webp",
+      "w": 520,
+      "h": 347
+     }
+    },
+    {
+     "src": "/images/p/mazda-787b-4.webp",
+     "w": 1200,
+     "h": 661,
+     "thumb": {
+      "src": "/images/p/mazda-787b-4-t.webp",
+      "w": 520,
+      "h": 286
+     }
+    }
+   ]
+  },
+  {
+   "id": 868273,
+   "slug": "redbull-f1",
+   "name": "RedBull F1",
+   "category": "lego-cars",
+   "sub": [
+    "f1"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320122
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 199000,
+   "compareAt": null,
+   "stock": 12,
+   "createdAt": "2026-04-21",
+   "pieces": 1639,
+   "size": "63×24×14 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/redbull-f1.webp",
+     "w": 513,
+     "h": 452,
+     "thumb": {
+      "src": "/images/p/redbull-f1-t.webp",
+      "w": 513,
+      "h": 452
+     }
+    },
+    {
+     "src": "/images/p/redbull-f1-2.webp",
+     "w": 750,
+     "h": 628,
+     "thumb": {
+      "src": "/images/p/redbull-f1-2-t.webp",
+      "w": 520,
+      "h": 435
+     }
+    },
+    {
+     "src": "/images/p/redbull-f1-3.webp",
+     "w": 678,
+     "h": 490,
+     "thumb": {
+      "src": "/images/p/redbull-f1-3-t.webp",
+      "w": 520,
+      "h": 376
+     }
+    },
+    {
+     "src": "/images/p/redbull-f1-4.webp",
+     "w": 672,
+     "h": 541,
+     "thumb": {
+      "src": "/images/p/redbull-f1-4-t.webp",
+      "w": 520,
+      "h": 419
+     }
+    }
+   ]
+  },
+  {
+   "id": 868268,
+   "slug": "mclaren-f1-868268",
+   "name": "McLaren F1",
+   "category": "lego-cars",
+   "sub": [
+    "f1"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320122
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-21",
+   "pieces": 1432,
+   "size": "65×27×13 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-f1-868268.webp",
+     "w": 628,
+     "h": 641,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-868268-t.webp",
+      "w": 509,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mclaren-f1-868268-2.webp",
+     "w": 858,
+     "h": 649,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-868268-2-t.webp",
+      "w": 520,
+      "h": 393
+     }
+    },
+    {
+     "src": "/images/p/mclaren-f1-868268-3.webp",
+     "w": 1194,
+     "h": 548,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-868268-3-t.webp",
+      "w": 520,
+      "h": 239
+     }
+    },
+    {
+     "src": "/images/p/mclaren-f1-868268-4.webp",
+     "w": 502,
+     "h": 596,
+     "thumb": {
+      "src": "/images/p/mclaren-f1-868268-4-t.webp",
+      "w": 438,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868267,
+   "slug": "peugeot-9x8",
+   "name": "Peugeot 9x8",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 139000,
+   "compareAt": null,
+   "stock": 4,
+   "createdAt": "2026-04-21",
+   "pieces": 1775,
+   "size": "50×20×15 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/peugeot-9x8.webp",
+     "w": 683,
+     "h": 510,
+     "thumb": {
+      "src": "/images/p/peugeot-9x8-t.webp",
+      "w": 520,
+      "h": 388
+     }
+    },
+    {
+     "src": "/images/p/peugeot-9x8-2.webp",
+     "w": 1051,
+     "h": 490,
+     "thumb": {
+      "src": "/images/p/peugeot-9x8-2-t.webp",
+      "w": 520,
+      "h": 242
+     }
+    },
+    {
+     "src": "/images/p/peugeot-9x8-3.webp",
+     "w": 749,
+     "h": 666,
+     "thumb": {
+      "src": "/images/p/peugeot-9x8-3-t.webp",
+      "w": 520,
+      "h": 462
+     }
+    },
+    {
+     "src": "/images/p/peugeot-9x8-4.webp",
+     "w": 935,
+     "h": 535,
+     "thumb": {
+      "src": "/images/p/peugeot-9x8-4-t.webp",
+      "w": 520,
+      "h": 298
+     }
+    }
+   ]
+  },
+  {
+   "id": 868266,
+   "slug": "ford-gt-868266",
+   "name": "Ford GT",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-21",
+   "pieces": 1466,
+   "size": "39×17×9 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ford-gt-868266.webp",
+     "w": 750,
+     "h": 538,
+     "thumb": {
+      "src": "/images/p/ford-gt-868266-t.webp",
+      "w": 520,
+      "h": 373
+     }
+    },
+    {
+     "src": "/images/p/ford-gt-868266-2.webp",
+     "w": 598,
+     "h": 528,
+     "thumb": {
+      "src": "/images/p/ford-gt-868266-2-t.webp",
+      "w": 520,
+      "h": 459
+     }
+    },
+    {
+     "src": "/images/p/ford-gt-868266-3.webp",
+     "w": 596,
+     "h": 509,
+     "thumb": {
+      "src": "/images/p/ford-gt-868266-3-t.webp",
+      "w": 520,
+      "h": 444
+     }
+    }
+   ]
+  },
+  {
+   "id": 868257,
+   "slug": "mclaren-p1",
+   "name": "McLaren P1",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 319000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-21",
+   "pieces": 3896,
+   "size": "59×25×14 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mclaren-p1.webp",
+     "w": 1143,
+     "h": 688,
+     "thumb": {
+      "src": "/images/p/mclaren-p1-t.webp",
+      "w": 520,
+      "h": 313
+     }
+    },
+    {
+     "src": "/images/p/mclaren-p1-2.webp",
+     "w": 996,
+     "h": 690,
+     "thumb": {
+      "src": "/images/p/mclaren-p1-2-t.webp",
+      "w": 520,
+      "h": 360
+     }
+    },
+    {
+     "src": "/images/p/mclaren-p1-3.webp",
+     "w": 750,
+     "h": 594,
+     "thumb": {
+      "src": "/images/p/mclaren-p1-3-t.webp",
+      "w": 520,
+      "h": 412
+     }
+    },
+    {
+     "src": "/images/p/mclaren-p1-4.webp",
+     "w": 419,
+     "h": 684,
+     "thumb": {
+      "src": "/images/p/mclaren-p1-4-t.webp",
+      "w": 319,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mclaren-p1-5.webp",
+     "w": 511,
+     "h": 656,
+     "thumb": {
+      "src": "/images/p/mclaren-p1-5-t.webp",
+      "w": 405,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868250,
+   "slug": "ford-raptor-f150",
+   "name": "Ford Raptor F150",
+   "category": "lego-cars",
+   "sub": [
+    "jeep"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320123
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-21",
+   "pieces": null,
+   "size": "42×20×17 см",
+   "age": "14+",
+   "scale": null,
+   "features": [
+    "Тоо ширхэг: 42*17см"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ford-raptor-f150.webp",
+     "w": 824,
+     "h": 744,
+     "thumb": {
+      "src": "/images/p/ford-raptor-f150-t.webp",
+      "w": 520,
+      "h": 470
+     }
+    },
+    {
+     "src": "/images/p/ford-raptor-f150-2.webp",
+     "w": 646,
+     "h": 657,
+     "thumb": {
+      "src": "/images/p/ford-raptor-f150-2-t.webp",
+      "w": 511,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/ford-raptor-f150-3.webp",
+     "w": 1125,
+     "h": 674,
+     "thumb": {
+      "src": "/images/p/ford-raptor-f150-3-t.webp",
+      "w": 520,
+      "h": 312
+     }
+    }
+   ]
+  },
+  {
+   "id": 868143,
+   "slug": "mercedes-benz-petronas-f1",
+   "name": "Mercedes Benz Petronas F1",
+   "category": "lego-cars",
+   "sub": [
+    "f1"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320122
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 4,
+   "createdAt": "2026-04-20",
+   "pieces": 1642,
+   "size": "63×26×11 см",
+   "age": "12+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-petronas-f1.webp",
+     "w": 497,
+     "h": 685,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-petronas-f1-t.webp",
+      "w": 377,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-petronas-f1-2.webp",
+     "w": 745,
+     "h": 378,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-petronas-f1-2-t.webp",
+      "w": 520,
+      "h": 264
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-petronas-f1-3.webp",
+     "w": 1112,
+     "h": 575,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-petronas-f1-3-t.webp",
+      "w": 520,
+      "h": 269
+     }
+    }
+   ]
+  },
+  {
+   "id": 868134,
+   "slug": "lamborghini-sian-fpk",
+   "name": "Lamborghini SIAN FPK",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 199000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-20",
+   "pieces": 3696,
+   "size": "60×30×14 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": "https://www.youtube.com/watch?v=CMBpJyT8cKI",
+   "images": [
+    {
+     "src": "/images/p/lamborghini-sian-fpk.webp",
+     "w": 682,
+     "h": 475,
+     "thumb": {
+      "src": "/images/p/lamborghini-sian-fpk-t.webp",
+      "w": 520,
+      "h": 362
+     }
+    },
+    {
+     "src": "/images/p/lamborghini-sian-fpk-2.webp",
+     "w": 1045,
+     "h": 505,
+     "thumb": {
+      "src": "/images/p/lamborghini-sian-fpk-2-t.webp",
+      "w": 520,
+      "h": 251
+     }
+    },
+    {
+     "src": "/images/p/lamborghini-sian-fpk-3.webp",
+     "w": 410,
+     "h": 391,
+     "thumb": {
+      "src": "/images/p/lamborghini-sian-fpk-3-t.webp",
+      "w": 410,
+      "h": 391
+     }
+    },
+    {
+     "src": "/images/p/lamborghini-sian-fpk-4.webp",
+     "w": 396,
+     "h": 353,
+     "thumb": {
+      "src": "/images/p/lamborghini-sian-fpk-4-t.webp",
+      "w": 396,
+      "h": 353
+     }
+    }
+   ]
+  },
+  {
+   "id": 868133,
+   "slug": "porsche-911-targa-and-turbo",
+   "name": "Porsche 911 Targa and Turbo",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 149000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-20",
+   "pieces": null,
+   "size": "35×16×10 см",
+   "age": "14+",
+   "scale": null,
+   "features": [
+    "Тоо ширхэг: 1500+pcs"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/porsche-911-targa-and-turbo.webp",
+     "w": 507,
+     "h": 408,
+     "thumb": {
+      "src": "/images/p/porsche-911-targa-and-turbo-t.webp",
+      "w": 507,
+      "h": 408
+     }
+    },
+    {
+     "src": "/images/p/porsche-911-targa-and-turbo-2.webp",
+     "w": 511,
+     "h": 575,
+     "thumb": {
+      "src": "/images/p/porsche-911-targa-and-turbo-2-t.webp",
+      "w": 462,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/porsche-911-targa-and-turbo-3.webp",
+     "w": 620,
+     "h": 521,
+     "thumb": {
+      "src": "/images/p/porsche-911-targa-and-turbo-3-t.webp",
+      "w": 520,
+      "h": 437
+     }
+    },
+    {
+     "src": "/images/p/porsche-911-targa-and-turbo-4.webp",
+     "w": 680,
+     "h": 464,
+     "thumb": {
+      "src": "/images/p/porsche-911-targa-and-turbo-4-t.webp",
+      "w": 520,
+      "h": 355
+     }
+    },
+    {
+     "src": "/images/p/porsche-911-targa-and-turbo-5.webp",
+     "w": 562,
+     "h": 635,
+     "thumb": {
+      "src": "/images/p/porsche-911-targa-and-turbo-5-t.webp",
+      "w": 460,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868132,
+   "slug": "land-rover-defender-classic-90edition",
+   "name": "Land Rover Defender Classic 90Edition",
+   "category": "lego-cars",
+   "sub": [
+    "jeep"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320123
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 169000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-20",
+   "pieces": 2336,
+   "size": "32×16×16 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-rover-defender-classic-90edition.webp",
+     "w": 499,
+     "h": 403,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-classic-90edition-t.webp",
+      "w": 499,
+      "h": 403
+     }
+    },
+    {
+     "src": "/images/p/land-rover-defender-classic-90edition-2.webp",
+     "w": 538,
+     "h": 669,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-classic-90edition-2-t.webp",
+      "w": 418,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/land-rover-defender-classic-90edition-3.webp",
+     "w": 553,
+     "h": 537,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-classic-90edition-3-t.webp",
+      "w": 520,
+      "h": 505
+     }
+    },
+    {
+     "src": "/images/p/land-rover-defender-classic-90edition-4.webp",
+     "w": 485,
+     "h": 613,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-classic-90edition-4-t.webp",
+      "w": 411,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 868131,
+   "slug": "land-rover-defender",
+   "name": "Land Rover Defender",
+   "category": "lego-cars",
+   "sub": [
+    "jeep"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320123
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 139000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-20",
+   "pieces": 2573,
+   "size": "43×24×14 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-rover-defender.webp",
+     "w": 928,
+     "h": 678,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-t.webp",
+      "w": 520,
+      "h": 380
+     }
+    },
+    {
+     "src": "/images/p/land-rover-defender-2.webp",
+     "w": 512,
+     "h": 354,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-2-t.webp",
+      "w": 512,
+      "h": 354
+     }
+    },
+    {
+     "src": "/images/p/land-rover-defender-3.webp",
+     "w": 622,
+     "h": 419,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-3-t.webp",
+      "w": 520,
+      "h": 350
+     }
+    },
+    {
+     "src": "/images/p/land-rover-defender-4.webp",
+     "w": 415,
+     "h": 480,
+     "thumb": {
+      "src": "/images/p/land-rover-defender-4-t.webp",
+      "w": 415,
+      "h": 480
+     }
+    }
+   ]
+  },
+  {
+   "id": 868129,
+   "slug": "porsche-911rsr-gt3",
+   "name": "Porsche 911RSR GT3",
+   "category": "lego-cars",
+   "sub": [
+    "sport"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320121
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 89000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-20",
+   "pieces": 1580,
+   "size": "50×21×17 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/porsche-911rsr-gt3.webp",
+     "w": 408,
+     "h": 675,
+     "thumb": {
+      "src": "/images/p/porsche-911rsr-gt3-t.webp",
+      "w": 314,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/porsche-911rsr-gt3-2.webp",
+     "w": 521,
+     "h": 437,
+     "thumb": {
+      "src": "/images/p/porsche-911rsr-gt3-2-t.webp",
+      "w": 520,
+      "h": 436
+     }
+    },
+    {
+     "src": "/images/p/porsche-911rsr-gt3-3.webp",
+     "w": 451,
+     "h": 407,
+     "thumb": {
+      "src": "/images/p/porsche-911rsr-gt3-3-t.webp",
+      "w": 451,
+      "h": 407
+     }
+    },
+    {
+     "src": "/images/p/porsche-911rsr-gt3-4.webp",
+     "w": 449,
+     "h": 412,
+     "thumb": {
+      "src": "/images/p/porsche-911rsr-gt3-4-t.webp",
+      "w": 449,
+      "h": 412
+     }
+    },
+    {
+     "src": "/images/p/porsche-911rsr-gt3-5.webp",
+     "w": 497,
+     "h": 297,
+     "thumb": {
+      "src": "/images/p/porsche-911rsr-gt3-5-t.webp",
+      "w": 497,
+      "h": 297
+     }
+    }
+   ]
+  },
+  {
+   "id": 868127,
+   "slug": "ferrari-daytona-sp3",
+   "name": "Ferrari Daytona Sp3",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 229000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-20",
+   "pieces": 3776,
+   "size": "59×25×14 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": "https://www.youtube.com/shorts/CxeSxmlMY5k",
+   "images": [
+    {
+     "src": "/images/p/ferrari-daytona-sp3.webp",
+     "w": 562,
+     "h": 429,
+     "thumb": {
+      "src": "/images/p/ferrari-daytona-sp3-t.webp",
+      "w": 520,
+      "h": 397
+     }
+    },
+    {
+     "src": "/images/p/ferrari-daytona-sp3-2.webp",
+     "w": 558,
+     "h": 662,
+     "thumb": {
+      "src": "/images/p/ferrari-daytona-sp3-2-t.webp",
+      "w": 438,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/ferrari-daytona-sp3-3.webp",
+     "w": 530,
+     "h": 396,
+     "thumb": {
+      "src": "/images/p/ferrari-daytona-sp3-3-t.webp",
+      "w": 520,
+      "h": 389
+     }
+    },
+    {
+     "src": "/images/p/ferrari-daytona-sp3-4.webp",
+     "w": 379,
+     "h": 502,
+     "thumb": {
+      "src": "/images/p/ferrari-daytona-sp3-4-t.webp",
+      "w": 379,
+      "h": 502
+     }
+    }
+   ]
+  },
+  {
+   "id": 868126,
+   "slug": "bugatti-chiron",
+   "name": "Bugatti Chiron",
+   "category": "lego-cars",
+   "sub": [
+    "hypercars"
+   ],
+   "zochilCategoryIds": [
+    243057,
+    320120
+   ],
+   "brand": "Technic",
+   "sku": null,
+   "price": 296100,
+   "compareAt": 329000,
+   "stock": 1,
+   "createdAt": "2026-04-20",
+   "pieces": 4031,
+   "size": "56×25×14 см",
+   "age": "14+",
+   "scale": null,
+   "features": [],
+   "video": "https://www.youtube.com/shorts/5Sq4JPCx2e8",
+   "images": [
+    {
+     "src": "/images/p/bugatti-chiron.webp",
+     "w": 1030,
+     "h": 507,
+     "thumb": {
+      "src": "/images/p/bugatti-chiron-t.webp",
+      "w": 520,
+      "h": 256
+     }
+    },
+    {
+     "src": "/images/p/bugatti-chiron-2.webp",
+     "w": 962,
+     "h": 577,
+     "thumb": {
+      "src": "/images/p/bugatti-chiron-2-t.webp",
+      "w": 520,
+      "h": 312
+     }
+    },
+    {
+     "src": "/images/p/bugatti-chiron-3.webp",
+     "w": 954,
+     "h": 670,
+     "thumb": {
+      "src": "/images/p/bugatti-chiron-3-t.webp",
+      "w": 520,
+      "h": 365
+     }
+    },
+    {
+     "src": "/images/p/bugatti-chiron-4.webp",
+     "w": 868,
+     "h": 676,
+     "thumb": {
+      "src": "/images/p/bugatti-chiron-4-t.webp",
+      "w": 520,
+      "h": 405
+     }
+    },
+    {
+     "src": "/images/p/bugatti-chiron-5.webp",
+     "w": 738,
+     "h": 539,
+     "thumb": {
+      "src": "/images/p/bugatti-chiron-5-t.webp",
+      "w": 520,
+      "h": 380
+     }
+    }
+   ]
+  },
+  {
+   "id": 868125,
+   "slug": "shalanz-ekskavator-set",
+   "name": "Шаланз экскаватор сет",
+   "category": "rc",
+   "sub": [
+    "heavy"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    244327
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 179000,
+   "compareAt": null,
+   "stock": 9,
+   "createdAt": "2026-04-20",
+   "pieces": null,
+   "size": "83×10×13 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Хөтлөгч: 6x4",
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-45минут",
+    "Ковш болон экскаватороос сонгон сет болно"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/shalanz-ekskavator-set.webp",
+     "w": 1058,
+     "h": 839,
+     "thumb": {
+      "src": "/images/p/shalanz-ekskavator-set-t.webp",
+      "w": 520,
+      "h": 412
+     }
+    },
+    {
+     "src": "/images/p/shalanz-ekskavator-set-2.webp",
+     "w": 1193,
+     "h": 677,
+     "thumb": {
+      "src": "/images/p/shalanz-ekskavator-set-2-t.webp",
+      "w": 520,
+      "h": 295
+     }
+    },
+    {
+     "src": "/images/p/shalanz-ekskavator-set-3.webp",
+     "w": 1191,
+     "h": 736,
+     "thumb": {
+      "src": "/images/p/shalanz-ekskavator-set-3-t.webp",
+      "w": 520,
+      "h": 321
+     }
+    }
+   ]
+  },
+  {
+   "id": 868112,
+   "slug": "huina-shalanz",
+   "name": "Huina шаланз",
+   "category": "rc",
+   "sub": [
+    "heavy"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    244327
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 119000,
+   "compareAt": null,
+   "stock": 12,
+   "createdAt": "2026-04-20",
+   "pieces": null,
+   "size": "83×10×13 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Хөтлөгч: 4x4",
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-45минут тоглоно",
+    "Гэрэл болон дууны системтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/huina-shalanz.webp",
+     "w": 901,
+     "h": 863,
+     "thumb": {
+      "src": "/images/p/huina-shalanz-t.webp",
+      "w": 520,
+      "h": 498
+     }
+    },
+    {
+     "src": "/images/p/huina-shalanz-2.webp",
+     "w": 909,
+     "h": 863,
+     "thumb": {
+      "src": "/images/p/huina-shalanz-2-t.webp",
+      "w": 520,
+      "h": 494
+     }
+    },
+    {
+     "src": "/images/p/huina-shalanz-3.webp",
+     "w": 721,
+     "h": 578,
+     "thumb": {
+      "src": "/images/p/huina-shalanz-3-t.webp",
+      "w": 520,
+      "h": 417
+     }
+    }
+   ]
+  },
+  {
+   "id": 868108,
+   "slug": "panther-tank",
+   "name": "Panther Tank",
+   "category": "military",
+   "sub": [
+    "tanks"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244294
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 59000,
+   "compareAt": null,
+   "stock": 4,
+   "createdAt": "2026-04-20",
+   "pieces": 638,
+   "size": "25.5×9.1×10.6 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/panther-tank.webp",
+     "w": 589,
+     "h": 445,
+     "thumb": {
+      "src": "/images/p/panther-tank-t.webp",
+      "w": 520,
+      "h": 393
+     }
+    },
+    {
+     "src": "/images/p/panther-tank-2.webp",
+     "w": 703,
+     "h": 428,
+     "thumb": {
+      "src": "/images/p/panther-tank-2-t.webp",
+      "w": 520,
+      "h": 317
+     }
+    }
+   ]
+  },
+  {
+   "id": 868105,
+   "slug": "usa-humvee-jeep",
+   "name": "USA Humvee jeep",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244293
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 45000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-20",
+   "pieces": 518,
+   "size": "19.5×11.2×11.1 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/usa-humvee-jeep.webp",
+     "w": 697,
+     "h": 528,
+     "thumb": {
+      "src": "/images/p/usa-humvee-jeep-t.webp",
+      "w": 520,
+      "h": 394
+     }
+    },
+    {
+     "src": "/images/p/usa-humvee-jeep-2.webp",
+     "w": 656,
+     "h": 574,
+     "thumb": {
+      "src": "/images/p/usa-humvee-jeep-2-t.webp",
+      "w": 520,
+      "h": 455
+     }
+    },
+    {
+     "src": "/images/p/usa-humvee-jeep-3.webp",
+     "w": 680,
+     "h": 534,
+     "thumb": {
+      "src": "/images/p/usa-humvee-jeep-3-t.webp",
+      "w": 520,
+      "h": 408
+     }
+    }
+   ]
+  },
+  {
+   "id": 868103,
+   "slug": "jaguar-erb-khuyagt",
+   "name": "Jaguar ERB хуягт",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244293
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-20",
+   "pieces": 381,
+   "size": "18.1×10.3×8.4 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/jaguar-erb-khuyagt.webp",
+     "w": 665,
+     "h": 627,
+     "thumb": {
+      "src": "/images/p/jaguar-erb-khuyagt-t.webp",
+      "w": 520,
+      "h": 490
+     }
+    },
+    {
+     "src": "/images/p/jaguar-erb-khuyagt-2.webp",
+     "w": 694,
+     "h": 575,
+     "thumb": {
+      "src": "/images/p/jaguar-erb-khuyagt-2-t.webp",
+      "w": 520,
+      "h": 431
+     }
+    },
+    {
+     "src": "/images/p/jaguar-erb-khuyagt-3.webp",
+     "w": 705,
+     "h": 485,
+     "thumb": {
+      "src": "/images/p/jaguar-erb-khuyagt-3-t.webp",
+      "w": 520,
+      "h": 358
+     }
+    }
+   ]
+  },
+  {
+   "id": 868102,
+   "slug": "type-052d-destroyer",
+   "name": "Type 052D destroyer",
+   "category": "military",
+   "sub": [
+    "navy"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244290
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 35000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-20",
+   "pieces": 376,
+   "size": "35.7×11.4×7.3 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/type-052d-destroyer.webp",
+     "w": 744,
+     "h": 672,
+     "thumb": {
+      "src": "/images/p/type-052d-destroyer-t.webp",
+      "w": 520,
+      "h": 470
+     }
+    },
+    {
+     "src": "/images/p/type-052d-destroyer-2.webp",
+     "w": 743,
+     "h": 410,
+     "thumb": {
+      "src": "/images/p/type-052d-destroyer-2-t.webp",
+      "w": 520,
+      "h": 287
+     }
+    },
+    {
+     "src": "/images/p/type-052d-destroyer-3.webp",
+     "w": 693,
+     "h": 498,
+     "thumb": {
+      "src": "/images/p/type-052d-destroyer-3-t.webp",
+      "w": 520,
+      "h": 374
+     }
+    }
+   ]
+  },
+  {
+   "id": 868101,
+   "slug": "navy-the-type-055-destroyer-aircraft-carrier",
+   "name": "Navy the Type 055 Destroyer Aircraft Carrier",
+   "category": "military",
+   "sub": [
+    "navy"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244290
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-20",
+   "pieces": 364,
+   "size": "35×6×14 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/navy-the-type-055-destroyer-aircraft-carrier.webp",
+     "w": 613,
+     "h": 572,
+     "thumb": {
+      "src": "/images/p/navy-the-type-055-destroyer-aircraft-carrier-t.webp",
+      "w": 520,
+      "h": 485
+     }
+    },
+    {
+     "src": "/images/p/navy-the-type-055-destroyer-aircraft-carrier-2.webp",
+     "w": 576,
+     "h": 379,
+     "thumb": {
+      "src": "/images/p/navy-the-type-055-destroyer-aircraft-carrier-2-t.webp",
+      "w": 520,
+      "h": 342
+     }
+    }
+   ]
+  },
+  {
+   "id": 868092,
+   "slug": "shumbagch-ongots",
+   "name": "Шумбагч онгоц",
+   "category": "military",
+   "sub": [
+    "navy"
+   ],
+   "zochilCategoryIds": [
+    243842,
+    244290
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 35000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-20",
+   "pieces": 389,
+   "size": "29.6×5.4×9.6 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/shumbagch-ongots.webp",
+     "w": 726,
+     "h": 453,
+     "thumb": {
+      "src": "/images/p/shumbagch-ongots-t.webp",
+      "w": 520,
+      "h": 324
+     }
+    },
+    {
+     "src": "/images/p/shumbagch-ongots-2.webp",
+     "w": 685,
+     "h": 522,
+     "thumb": {
+      "src": "/images/p/shumbagch-ongots-2-t.webp",
+      "w": 520,
+      "h": 396
+     }
+    },
+    {
+     "src": "/images/p/shumbagch-ongots-3.webp",
+     "w": 737,
+     "h": 519,
+     "thumb": {
+      "src": "/images/p/shumbagch-ongots-3-t.webp",
+      "w": 520,
+      "h": 366
+     }
+    }
+   ]
+  },
+  {
+   "id": 868079,
+   "slug": "ginjit-uuruu-yavagch",
+   "name": "Гинжит өөрөө явагч",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    244324,
+    320266
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 209000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-20",
+   "pieces": null,
+   "size": "27×13.5×11 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "360 суурин дээрээ эргэдэг",
+    "30градус руу өгсөх чадалтай",
+    "Сайжруулсан ган явах эд ангитай",
+    "4 өнгө солигддог гэрэлтэй."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ginjit-uuruu-yavagch.webp",
+     "w": 720,
+     "h": 933,
+     "thumb": {
+      "src": "/images/p/ginjit-uuruu-yavagch-t.webp",
+      "w": 401,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/ginjit-uuruu-yavagch-2.webp",
+     "w": 1200,
+     "h": 719,
+     "thumb": {
+      "src": "/images/p/ginjit-uuruu-yavagch-2-t.webp",
+      "w": 520,
+      "h": 312
+     }
+    },
+    {
+     "src": "/images/p/ginjit-uuruu-yavagch-3.webp",
+     "w": 720,
+     "h": 879,
+     "thumb": {
+      "src": "/images/p/ginjit-uuruu-yavagch-3-t.webp",
+      "w": 426,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/ginjit-uuruu-yavagch-4.webp",
+     "w": 500,
+     "h": 429,
+     "thumb": {
+      "src": "/images/p/ginjit-uuruu-yavagch-4-t.webp",
+      "w": 500,
+      "h": 429
+     }
+    }
+   ]
+  },
+  {
+   "id": 865679,
+   "slug": "udirdlagatai-zav",
+   "name": "Удирдлагатай завь",
+   "category": "rc",
+   "sub": [
+    "air-water"
+   ],
+   "zochilCategoryIds": [
+    320267,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 119000,
+   "compareAt": null,
+   "stock": 7,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Удирдах зай: 45-60 метр",
+    "Нөөц 2ш сэнстэй",
+    "Цэнэглэдэг зайтай",
+    "25-30мин тоглоно."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/udirdlagatai-zav.webp",
+     "w": 627,
+     "h": 532,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-zav-t.webp",
+      "w": 520,
+      "h": 441
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-zav-2.webp",
+     "w": 619,
+     "h": 623,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-zav-2-t.webp",
+      "w": 517,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-zav-3.webp",
+     "w": 500,
+     "h": 514,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-zav-3-t.webp",
+      "w": 500,
+      "h": 514
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-zav-4.webp",
+     "w": 621,
+     "h": 518,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-zav-4-t.webp",
+      "w": 520,
+      "h": 434
+     }
+    }
+   ]
+  },
+  {
+   "id": 865678,
+   "slug": "kick-sauber-c44",
+   "name": "Kick sauber C44",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    320266,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 99500,
+   "compareAt": 199000,
+   "stock": 44,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "35.2×12.5×7.6 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "3.7V-500mAh battery",
+    "Удирдах зай-40м"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/kick-sauber-c44.webp",
+     "w": 1004,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/kick-sauber-c44-t.webp",
+      "w": 520,
+      "h": 373
+     }
+    },
+    {
+     "src": "/images/p/kick-sauber-c44-2.webp",
+     "w": 872,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/kick-sauber-c44-2-t.webp",
+      "w": 520,
+      "h": 429
+     }
+    },
+    {
+     "src": "/images/p/kick-sauber-c44-3.webp",
+     "w": 500,
+     "h": 790,
+     "thumb": {
+      "src": "/images/p/kick-sauber-c44-3-t.webp",
+      "w": 329,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 865677,
+   "slug": "extreme-offroad-rc",
+   "name": "Extreme offroad RC",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    320266,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 223200,
+   "compareAt": 279000,
+   "stock": 1,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "35×21×15 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "3.7V-1500mAh battery",
+    "Удирдах зай-40м",
+    "Төмөр хүч дамжуулахтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/extreme-offroad-rc.webp",
+     "w": 500,
+     "h": 482,
+     "thumb": {
+      "src": "/images/p/extreme-offroad-rc-t.webp",
+      "w": 500,
+      "h": 482
+     }
+    },
+    {
+     "src": "/images/p/extreme-offroad-rc-2.webp",
+     "w": 929,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/extreme-offroad-rc-2-t.webp",
+      "w": 520,
+      "h": 403
+     }
+    },
+    {
+     "src": "/images/p/extreme-offroad-rc-3.webp",
+     "w": 906,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/extreme-offroad-rc-3-t.webp",
+      "w": 520,
+      "h": 413
+     }
+    },
+    {
+     "src": "/images/p/extreme-offroad-rc-4.webp",
+     "w": 787,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/extreme-offroad-rc-4-t.webp",
+      "w": 520,
+      "h": 476
+     }
+    }
+   ]
+  },
+  {
+   "id": 865676,
+   "slug": "ural-4320-kemper",
+   "name": "Урал 4320 кемпер",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    320266,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 190000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "42.5×14.4×21 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Цэнэглэдэг батерей",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "Байнгын 6х6 хөтлөгчэй туулах чадвар сайтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ural-4320-kemper.webp",
+     "w": 500,
+     "h": 485,
+     "thumb": {
+      "src": "/images/p/ural-4320-kemper-t.webp",
+      "w": 500,
+      "h": 485
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-kemper-2.webp",
+     "w": 744,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-kemper-2-t.webp",
+      "w": 520,
+      "h": 503
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-kemper-3.webp",
+     "w": 741,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-kemper-3-t.webp",
+      "w": 520,
+      "h": 505
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-kemper-4.webp",
+     "w": 746,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-kemper-4-t.webp",
+      "w": 520,
+      "h": 502
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-kemper-5.webp",
+     "w": 738,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-kemper-5-t.webp",
+      "w": 520,
+      "h": 507
+     }
+    }
+   ]
+  },
+  {
+   "id": 865675,
+   "slug": "ural-4320-chiregch",
+   "name": "Урал 4320 чирэгч",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    320266,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 240000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "1.05×14×17 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Бүтээгдэхүүний хэмжээ: 1.05*14*17см",
+    "30-35минут тоглоно",
+    "Байнгын 6х6 хөтлөгчэй туулах чадвар сайтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ural-4320-chiregch.webp",
+     "w": 978,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-chiregch-t.webp",
+      "w": 520,
+      "h": 383
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-chiregch-2.webp",
+     "w": 741,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-chiregch-2-t.webp",
+      "w": 520,
+      "h": 505
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-chiregch-3.webp",
+     "w": 500,
+     "h": 490,
+     "thumb": {
+      "src": "/images/p/ural-4320-chiregch-3-t.webp",
+      "w": 500,
+      "h": 490
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-chiregch-4.webp",
+     "w": 738,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-chiregch-4-t.webp",
+      "w": 520,
+      "h": 507
+     }
+    },
+    {
+     "src": "/images/p/ural-4320-chiregch-5.webp",
+     "w": 978,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/ural-4320-chiregch-5-t.webp",
+      "w": 520,
+      "h": 383
+     }
+    }
+   ]
+  },
+  {
+   "id": 865674,
+   "slug": "uaz-469",
+   "name": "УАЗ-469",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    320266,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 179000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "35×13×17.5 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 30-35минут тоглоно",
+    "Байнгын 4х4 хөтлөгчэй туулах чадвар сайтай",
+    "Цагаан болон Ногоон өнгөний сонголттой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/uaz-469.webp",
+     "w": 500,
+     "h": 489,
+     "thumb": {
+      "src": "/images/p/uaz-469-t.webp",
+      "w": 500,
+      "h": 489
+     }
+    },
+    {
+     "src": "/images/p/uaz-469-2.webp",
+     "w": 734,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/uaz-469-2-t.webp",
+      "w": 520,
+      "h": 510
+     }
+    },
+    {
+     "src": "/images/p/uaz-469-3.webp",
+     "w": 740,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/uaz-469-3-t.webp",
+      "w": 520,
+      "h": 506
+     }
+    },
+    {
+     "src": "/images/p/uaz-469-4.webp",
+     "w": 728,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/uaz-469-4-t.webp",
+      "w": 520,
+      "h": 514
+     }
+    }
+   ]
+  },
+  {
+   "id": 865671,
+   "slug": "mercedes-benz-unimog-t4023",
+   "name": "Mercedes Benz Unimog T4023",
+   "category": "rc",
+   "sub": [
+    "offroad"
+   ],
+   "zochilCategoryIds": [
+    320266,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 159200,
+   "compareAt": 199000,
+   "stock": 1,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "4×4 см",
+   "age": null,
+   "scale": "1:18",
+   "features": [
+    "Хэмжээ: 1/18 scale 22см урттай",
+    "Нэг цэнэглэлтээр 35-40минут тоглоно. Нэмэлт баттерайтай",
+    "4x4 төмөр хүч дамжуулах эд анги Pоrtal Axle тэнхэгтэй",
+    "Аялалын загвар болгон тоноглох боломжтой."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-unimog-t4023.webp",
+     "w": 500,
+     "h": 495,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-unimog-t4023-t.webp",
+      "w": 500,
+      "h": 495
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-unimog-t4023-2.webp",
+     "w": 802,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-unimog-t4023-2-t.webp",
+      "w": 520,
+      "h": 467
+     }
+    },
+    {
+     "src": "/images/p/mercedes-benz-unimog-t4023-3.webp",
+     "w": 728,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-unimog-t4023-3-t.webp",
+      "w": 520,
+      "h": 514
+     }
+    }
+   ]
+  },
+  {
+   "id": 865666,
+   "slug": "scania-770s-shalanz",
+   "name": "Scania 770S шаланз",
+   "category": "rc",
+   "sub": [
+    "heavy"
+   ],
+   "zochilCategoryIds": [
+    244327,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 550000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "6×4 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "хэмжээ: 1.2 метр урт",
+    "6x4 хөтлөгчтэй",
+    "Цэнэглэдэг зайтай 30-45минут тоглоно",
+    "Хийн сигналтай удирлагаараа чиргүүлээ салгаж, залгадаг."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/scania-770s-shalanz.webp",
+     "w": 764,
+     "h": 459,
+     "thumb": {
+      "src": "/images/p/scania-770s-shalanz-t.webp",
+      "w": 520,
+      "h": 312
+     }
+    },
+    {
+     "src": "/images/p/scania-770s-shalanz-2.webp",
+     "w": 544,
+     "h": 327,
+     "thumb": {
+      "src": "/images/p/scania-770s-shalanz-2-t.webp",
+      "w": 520,
+      "h": 313
+     }
+    },
+    {
+     "src": "/images/p/scania-770s-shalanz-3.webp",
+     "w": 601,
+     "h": 528,
+     "thumb": {
+      "src": "/images/p/scania-770s-shalanz-3-t.webp",
+      "w": 520,
+      "h": 457
+     }
+    },
+    {
+     "src": "/images/p/scania-770s-shalanz-4.webp",
+     "w": 493,
+     "h": 587,
+     "thumb": {
+      "src": "/images/p/scania-770s-shalanz-4-t.webp",
+      "w": 437,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 865664,
+   "slug": "ginjit-kran-udirdlagatai",
+   "name": "Гинжит кран удирдлагатай",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 38500,
+   "compareAt": 55000,
+   "stock": 9,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Хэмжээ: 1:24 харьцаатай, 20см урт",
+    "11 үйлдэлтэй",
+    "Цэнэглэдэг зайтай 30минут тоглоно",
+    "Зөөлөн резин гинжтэй"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ginjit-kran-udirdlagatai.webp",
+     "w": 500,
+     "h": 333,
+     "thumb": {
+      "src": "/images/p/ginjit-kran-udirdlagatai-t.webp",
+      "w": 500,
+      "h": 333
+     }
+    }
+   ]
+  },
+  {
+   "id": 865663,
+   "slug": "belaz",
+   "name": "Белаз",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 45000,
+   "compareAt": null,
+   "stock": 15,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": null,
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "Хэмжээ: 1:16 харьцаатай 22см урт",
+    "8 үйлдэлтэй",
+    "Цэнэглэдэг зайтай, 35минут тоглоно,"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/belaz.webp",
+     "w": 500,
+     "h": 375,
+     "thumb": {
+      "src": "/images/p/belaz-t.webp",
+      "w": 500,
+      "h": 375
+     }
+    }
+   ]
+  },
+  {
+   "id": 865662,
+   "slug": "excavator-udirdlagatai-khairtsaggui",
+   "name": "Excavator удирдлагатай /хайрцаггүй/",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 119000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": null,
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "Хэмжээ: 1:18 харьцаатай, 30см урт",
+    "13 үйлдэлтэй",
+    "Цэнэглэдэг зайтай, 35-40минут тоглоно",
+    "Зөөлөн резин гинжтэй",
+    "Төмөр шанагатай",
+    "Уур гардаг нэмэлт тохиргоотой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/excavator-udirdlagatai-khairtsaggui.webp",
+     "w": 500,
+     "h": 333,
+     "thumb": {
+      "src": "/images/p/excavator-udirdlagatai-khairtsaggui-t.webp",
+      "w": 500,
+      "h": 333
+     }
+    }
+   ]
+  },
+  {
+   "id": 865661,
+   "slug": "ginjit-kran-udirdlagatai-865661",
+   "name": "Гинжит кран удирдлагатай",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 79000,
+   "compareAt": null,
+   "stock": 12,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "22×18×55 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "12 үйлдэлтэй",
+    "Цэнэглэдэг зайтай 25-35мин тоглоно"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ginjit-kran-udirdlagatai-865661.webp",
+     "w": 1200,
+     "h": 786,
+     "thumb": {
+      "src": "/images/p/ginjit-kran-udirdlagatai-865661-t.webp",
+      "w": 520,
+      "h": 341
+     }
+    },
+    {
+     "src": "/images/p/ginjit-kran-udirdlagatai-865661-2.webp",
+     "w": 500,
+     "h": 514,
+     "thumb": {
+      "src": "/images/p/ginjit-kran-udirdlagatai-865661-2-t.webp",
+      "w": 500,
+      "h": 514
+     }
+    }
+   ]
+  },
+  {
+   "id": 865660,
+   "slug": "galyn-mashin",
+   "name": "Галын машин",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 95200,
+   "compareAt": 119000,
+   "stock": 10,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "40×20×25 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "3м хол ус цацдаг",
+    "15 үйлдэлтэй",
+    "Сунадаг шаттай",
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 35-40 минут тоглоно."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/galyn-mashin.webp",
+     "w": 500,
+     "h": 396,
+     "thumb": {
+      "src": "/images/p/galyn-mashin-t.webp",
+      "w": 500,
+      "h": 396
+     }
+    },
+    {
+     "src": "/images/p/galyn-mashin-2.webp",
+     "w": 644,
+     "h": 548,
+     "thumb": {
+      "src": "/images/p/galyn-mashin-2-t.webp",
+      "w": 520,
+      "h": 442
+     }
+    },
+    {
+     "src": "/images/p/galyn-mashin-3.webp",
+     "w": 628,
+     "h": 630,
+     "thumb": {
+      "src": "/images/p/galyn-mashin-3-t.webp",
+      "w": 518,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/galyn-mashin-4.webp",
+     "w": 145,
+     "h": 209,
+     "thumb": {
+      "src": "/images/p/galyn-mashin-4-t.webp",
+      "w": 145,
+      "h": 209
+     }
+    }
+   ]
+  },
+  {
+   "id": 865651,
+   "slug": "tsamkhagt-kran-865651",
+   "name": "Цамхагт кран",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 9,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": null,
+   "age": "3+",
+   "scale": null,
+   "features": [
+    "Өндөр 80 см",
+    "3А зайгаар ажилладаг",
+    "360 градус эргэнэ",
+    "Нэг цэнэглэлтээр 45-60минут тоглоно"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/tsamkhagt-kran-865651.webp",
+     "w": 574,
+     "h": 707,
+     "thumb": {
+      "src": "/images/p/tsamkhagt-kran-865651-t.webp",
+      "w": 422,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/tsamkhagt-kran-865651-2.webp",
+     "w": 500,
+     "h": 592,
+     "thumb": {
+      "src": "/images/p/tsamkhagt-kran-865651-2-t.webp",
+      "w": 439,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 865649,
+   "slug": "udirdlagatai-avto-kran",
+   "name": "Удирдлагатай авто кран",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 29500,
+   "compareAt": 59000,
+   "stock": 16,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "23×8×28 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "Нэг цэнэглэлтээр 30-35мин тоглоно",
+    "3А зайгаар ажилладаг"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/udirdlagatai-avto-kran.webp",
+     "w": 765,
+     "h": 699,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-avto-kran-t.webp",
+      "w": 520,
+      "h": 475
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-avto-kran-2.webp",
+     "w": 500,
+     "h": 356,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-avto-kran-2-t.webp",
+      "w": 500,
+      "h": 356
+     }
+    }
+   ]
+  },
+  {
+   "id": 865632,
+   "slug": "udirdlagatai-kovsh",
+   "name": "Удирдлагатай ковш",
+   "category": "rc",
+   "sub": [
+    "mining"
+   ],
+   "zochilCategoryIds": [
+    320241,
+    244324
+   ],
+   "brand": "HULNA TOYS",
+   "sku": null,
+   "price": 79000,
+   "compareAt": null,
+   "stock": 8,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "35×18×18 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "9үйлдэлтэй",
+    "Цэнэглэдэг зайтай",
+    "Нэг цэнэглэлтээр 25-35минут тоглоно"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/udirdlagatai-kovsh.webp",
+     "w": 1037,
+     "h": 536,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-kovsh-t.webp",
+      "w": 520,
+      "h": 269
+     }
+    },
+    {
+     "src": "/images/p/udirdlagatai-kovsh-2.webp",
+     "w": 500,
+     "h": 365,
+     "thumb": {
+      "src": "/images/p/udirdlagatai-kovsh-2-t.webp",
+      "w": 500,
+      "h": 365
+     }
+    }
+   ]
+  },
+  {
+   "id": 865629,
+   "slug": "neubaufahrzeug-nfz-tank",
+   "name": "Neubaufahrzeug NFZ танк",
+   "category": "military",
+   "sub": [
+    "tanks"
+   ],
+   "zochilCategoryIds": [
+    244294,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 79000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-19",
+   "pieces": 673,
+   "size": "21.2×11.2×9.1 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/neubaufahrzeug-nfz-tank.webp",
+     "w": 297,
+     "h": 233,
+     "thumb": {
+      "src": "/images/p/neubaufahrzeug-nfz-tank-t.webp",
+      "w": 297,
+      "h": 233
+     }
+    },
+    {
+     "src": "/images/p/neubaufahrzeug-nfz-tank-2.webp",
+     "w": 296,
+     "h": 240,
+     "thumb": {
+      "src": "/images/p/neubaufahrzeug-nfz-tank-2-t.webp",
+      "w": 296,
+      "h": 240
+     }
+    },
+    {
+     "src": "/images/p/neubaufahrzeug-nfz-tank-3.webp",
+     "w": 500,
+     "h": 400,
+     "thumb": {
+      "src": "/images/p/neubaufahrzeug-nfz-tank-3-t.webp",
+      "w": 500,
+      "h": 400
+     }
+    }
+   ]
+  },
+  {
+   "id": 865628,
+   "slug": "apache-ah-64-helicopter",
+   "name": "Apache AH-64 Helicopter",
+   "category": "military",
+   "sub": [
+    "aircraft"
+   ],
+   "zochilCategoryIds": [
+    244292,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 50000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-19",
+   "pieces": 255,
+   "size": "47.3×37.6×18.1 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": "https://www.youtube.com/watch?v=vLKJYlyBa9Y&t=62s",
+   "images": [
+    {
+     "src": "/images/p/apache-ah-64-helicopter.webp",
+     "w": 500,
+     "h": 355,
+     "thumb": {
+      "src": "/images/p/apache-ah-64-helicopter-t.webp",
+      "w": 500,
+      "h": 355
+     }
+    },
+    {
+     "src": "/images/p/apache-ah-64-helicopter-2.webp",
+     "w": 290,
+     "h": 197,
+     "thumb": {
+      "src": "/images/p/apache-ah-64-helicopter-2-t.webp",
+      "w": 290,
+      "h": 197
+     }
+    },
+    {
+     "src": "/images/p/apache-ah-64-helicopter-3.webp",
+     "w": 286,
+     "h": 197,
+     "thumb": {
+      "src": "/images/p/apache-ah-64-helicopter-3-t.webp",
+      "w": 286,
+      "h": 197
+     }
+    }
+   ]
+  },
+  {
+   "id": 865607,
+   "slug": "vpk-7829-bumerang",
+   "name": "VPK-7829 Bumerang",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    244293,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 5,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "197×10×97 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Ширхэг-335"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/vpk-7829-bumerang.webp",
+     "w": 500,
+     "h": 500,
+     "thumb": {
+      "src": "/images/p/vpk-7829-bumerang-t.webp",
+      "w": 500,
+      "h": 500
+     }
+    }
+   ]
+  },
+  {
+   "id": 865606,
+   "slug": "mustang-p-51-fighter",
+   "name": "Mustang P-51 fighter",
+   "category": "military",
+   "sub": [
+    "aircraft"
+   ],
+   "zochilCategoryIds": [
+    244292
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 55000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": "37.5×43.1×13.7 см",
+   "age": "6+",
+   "scale": null,
+   "features": [
+    "Бүтээгдхүүний ширхэг-258"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mustang-p-51-fighter.webp",
+     "w": 500,
+     "h": 339,
+     "thumb": {
+      "src": "/images/p/mustang-p-51-fighter-t.webp",
+      "w": 500,
+      "h": 339
+     }
+    },
+    {
+     "src": "/images/p/mustang-p-51-fighter-2.webp",
+     "w": 642,
+     "h": 648,
+     "thumb": {
+      "src": "/images/p/mustang-p-51-fighter-2-t.webp",
+      "w": 515,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 865604,
+   "slug": "btr-4-bucephalus",
+   "name": "BTR-4 Bucephalus",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    244293,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-19",
+   "pieces": 379,
+   "size": "19.3×90×39 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/btr-4-bucephalus.webp",
+     "w": 500,
+     "h": 500,
+     "thumb": {
+      "src": "/images/p/btr-4-bucephalus-t.webp",
+      "w": 500,
+      "h": 500
+     }
+    }
+   ]
+  },
+  {
+   "id": 865603,
+   "slug": "mobilegun-m1128-usa",
+   "name": "Mobilegun M1128 USA",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    244293,
+    243842
+   ],
+   "brand": "MOULD KING",
+   "sku": null,
+   "price": 39000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-04-19",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mobilegun-m1128-usa.webp",
+     "w": 500,
+     "h": 412,
+     "thumb": {
+      "src": "/images/p/mobilegun-m1128-usa-t.webp",
+      "w": 500,
+      "h": 412
+     }
+    }
+   ]
+  },
+  {
+   "id": 865589,
+   "slug": "dana-m2",
+   "name": "DANA M2",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    244293,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 49000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-19",
+   "pieces": 425,
+   "size": "27.5×11.2×8 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/dana-m2.webp",
+     "w": 619,
+     "h": 420,
+     "thumb": {
+      "src": "/images/p/dana-m2-t.webp",
+      "w": 520,
+      "h": 353
+     }
+    },
+    {
+     "src": "/images/p/dana-m2-2.webp",
+     "w": 500,
+     "h": 527,
+     "thumb": {
+      "src": "/images/p/dana-m2-2-t.webp",
+      "w": 493,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 865588,
+   "slug": "anti-aircraft-missile",
+   "name": "Anti Aircraft Missile",
+   "category": "military",
+   "sub": [
+    "armored"
+   ],
+   "zochilCategoryIds": [
+    244293,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 49000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2026-04-19",
+   "pieces": 493,
+   "size": "192×80×134 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/anti-aircraft-missile.webp",
+     "w": 500,
+     "h": 443,
+     "thumb": {
+      "src": "/images/p/anti-aircraft-missile-t.webp",
+      "w": 500,
+      "h": 443
+     }
+    }
+   ]
+  },
+  {
+   "id": 865587,
+   "slug": "neubaufahrzeug-nfz-tank-865587",
+   "name": "Neubaufahrzeug NFZ танк",
+   "category": "military",
+   "sub": [
+    "tanks"
+   ],
+   "zochilCategoryIds": [
+    320222
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 79000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2026-04-19",
+   "pieces": 673,
+   "size": "21.2×11.2×9.1 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/neubaufahrzeug-nfz-tank-865587.webp",
+     "w": 299,
+     "h": 239,
+     "thumb": {
+      "src": "/images/p/neubaufahrzeug-nfz-tank-865587-t.webp",
+      "w": 299,
+      "h": 239
+     }
+    },
+    {
+     "src": "/images/p/neubaufahrzeug-nfz-tank-865587-2.webp",
+     "w": 296,
+     "h": 240,
+     "thumb": {
+      "src": "/images/p/neubaufahrzeug-nfz-tank-865587-2-t.webp",
+      "w": 296,
+      "h": 240
+     }
+    },
+    {
+     "src": "/images/p/neubaufahrzeug-nfz-tank-865587-3.webp",
+     "w": 297,
+     "h": 233,
+     "thumb": {
+      "src": "/images/p/neubaufahrzeug-nfz-tank-865587-3-t.webp",
+      "w": 297,
+      "h": 233
+     }
+    }
+   ]
+  },
+  {
+   "id": 865586,
+   "slug": "t34-85-tank",
+   "name": "T34-85 танк",
+   "category": "military",
+   "sub": [
+    "tanks"
+   ],
+   "zochilCategoryIds": [
+    244294,
+    243842
+   ],
+   "brand": "WANGE",
+   "sku": null,
+   "price": 49000,
+   "compareAt": null,
+   "stock": 4,
+   "createdAt": "2026-04-19",
+   "pieces": 604,
+   "size": "26.1×9.6×9.6 см",
+   "age": "6+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/t34-85-tank.webp",
+     "w": 500,
+     "h": 307,
+     "thumb": {
+      "src": "/images/p/t34-85-tank-t.webp",
+      "w": 500,
+      "h": 307
+     }
+    },
+    {
+     "src": "/images/p/t34-85-tank-2.webp",
+     "w": 262,
+     "h": 173,
+     "thumb": {
+      "src": "/images/p/t34-85-tank-2-t.webp",
+      "w": 262,
+      "h": 173
+     }
+    },
+    {
+     "src": "/images/p/t34-85-tank-3.webp",
+     "w": 259,
+     "h": 172,
+     "thumb": {
+      "src": "/images/p/t34-85-tank-3-t.webp",
+      "w": 259,
+      "h": 172
+     }
+    }
+   ]
+  },
+  {
+   "id": 775386,
+   "slug": "bmw-1000rr-775386",
+   "name": "BMW 1000RR",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2026-01-08",
+   "pieces": null,
+   "size": "70×40 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/bmw-1000rr-775386.webp",
+     "w": 640,
+     "h": 364,
+     "thumb": {
+      "src": "/images/p/bmw-1000rr-775386-t.webp",
+      "w": 520,
+      "h": 296
+     }
+    }
+   ]
+  },
+  {
+   "id": 770369,
+   "slug": "porsche-911rsr-frame",
+   "name": "Porsche 911RSR frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0013",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-12-26",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/porsche-911rsr-frame.webp",
+     "w": 603,
+     "h": 953,
+     "thumb": {
+      "src": "/images/p/porsche-911rsr-frame-t.webp",
+      "w": 329,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 759312,
+   "slug": "bujigledeg-robot",
+   "name": "Бүжиглэдэг робот",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 25000,
+   "compareAt": 30000,
+   "stock": 2,
+   "createdAt": "2025-12-06",
+   "pieces": null,
+   "size": null,
+   "age": "3+",
+   "scale": null,
+   "features": [
+    "Гэрэл асдаг",
+    "Бүжиглэдэг"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/bujigledeg-robot.webp",
+     "w": 1200,
+     "h": 1194,
+     "thumb": {
+      "src": "/images/p/bujigledeg-robot-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    }
+   ]
+  },
+  {
+   "id": 759310,
+   "slug": "gelin-sumtai-ak47",
+   "name": "Гелин сумтай AK47",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 29400,
+   "compareAt": 49000,
+   "stock": 0,
+   "createdAt": "2025-12-06",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Зөөлөн хөөсөн сумтай",
+    "85см урттай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/gelin-sumtai-ak47.webp",
+     "w": 444,
+     "h": 163,
+     "thumb": {
+      "src": "/images/p/gelin-sumtai-ak47-t.webp",
+      "w": 444,
+      "h": 163
+     }
+    }
+   ]
+  },
+  {
+   "id": 759308,
+   "slug": "zuulun-khuusun-sumtai-m416",
+   "name": "Зөөлөн хөөсөн сумтай M416",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 29400,
+   "compareAt": 49000,
+   "stock": 1,
+   "createdAt": "2025-12-06",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Зөөлөн хөөсөн сумтай",
+    "75см урттай",
+    "Жижиг гар буу болгож болдог"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/zuulun-khuusun-sumtai-m416.webp",
+     "w": 449,
+     "h": 148,
+     "thumb": {
+      "src": "/images/p/zuulun-khuusun-sumtai-m416-t.webp",
+      "w": 449,
+      "h": 148
+     }
+    }
+   ]
+  },
+  {
+   "id": 759306,
+   "slug": "zuulun-khuusun-sumtai-m41",
+   "name": "Зөөлөн хөөсөн сумтай M41",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 29400,
+   "compareAt": 49000,
+   "stock": 1,
+   "createdAt": "2025-12-06",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Зөөлөн хөөсөн сумтай",
+    "75см урттай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/zuulun-khuusun-sumtai-m41.webp",
+     "w": 445,
+     "h": 136,
+     "thumb": {
+      "src": "/images/p/zuulun-khuusun-sumtai-m41-t.webp",
+      "w": 445,
+      "h": 136
+     }
+    }
+   ]
+  },
+  {
+   "id": 759303,
+   "slug": "gel-sumtai-249-machine-gun",
+   "name": "Gel сумтай 249 machine gun",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": null,
+   "price": 29400,
+   "compareAt": 49000,
+   "stock": 2,
+   "createdAt": "2025-12-06",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гелин сумтай",
+    "Шүршиж бууддаг",
+    "Цэнэглэдэг зайтай"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/gel-sumtai-249-machine-gun.webp",
+     "w": 447,
+     "h": 160,
+     "thumb": {
+      "src": "/images/p/gel-sumtai-249-machine-gun-t.webp",
+      "w": 447,
+      "h": 160
+     }
+    }
+   ]
+  },
+  {
+   "id": 758565,
+   "slug": "knowledge-diy",
+   "name": "Knowledge DIY",
+   "category": "diy",
+   "sub": [],
+   "zochilCategoryIds": [
+    274752
+   ],
+   "brand": null,
+   "sku": "DIY0003",
+   "price": 55300,
+   "compareAt": 79000,
+   "stock": 10,
+   "createdAt": "2025-12-05",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Олон сонирхолтой робот, машин, амьтан угсарч улирдаж ажиллуулна.",
+    "Хүүхдийн бүтээлч сэтгэлгээг хөгжүүлэх тоглоом."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/knowledge-diy.webp",
+     "w": 725,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/knowledge-diy-t.webp",
+      "w": 520,
+      "h": 516
+     }
+    },
+    {
+     "src": "/images/p/knowledge-diy-2.webp",
+     "w": 885,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/knowledge-diy-2-t.webp",
+      "w": 520,
+      "h": 423
+     }
+    }
+   ]
+  },
+  {
+   "id": 758550,
+   "slug": "knowledge-scene-diy",
+   "name": "Knowledge Scene DIY",
+   "category": "diy",
+   "sub": [],
+   "zochilCategoryIds": [
+    274752
+   ],
+   "brand": null,
+   "sku": "DIY0004",
+   "price": 27300,
+   "compareAt": 39000,
+   "stock": 10,
+   "createdAt": "2025-12-05",
+   "pieces": null,
+   "size": null,
+   "age": "5+",
+   "scale": null,
+   "features": [
+    "Өөрийн нарны аймгийн загвараа гараар угсарч буддаг тоглоом",
+    "Хүүхдэд нарны аймгийн талаар мэдлэг өгөх бүтээлч тоглоом"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/knowledge-scene-diy.webp",
+     "w": 1069,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/knowledge-scene-diy-t.webp",
+      "w": 520,
+      "h": 350
+     }
+    },
+    {
+     "src": "/images/p/knowledge-scene-diy-2.webp",
+     "w": 720,
+     "h": 1000,
+     "thumb": {
+      "src": "/images/p/knowledge-scene-diy-2-t.webp",
+      "w": 374,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 758545,
+   "slug": "electronic-building-block-diy",
+   "name": "Electronic Building Block DIY",
+   "category": "diy",
+   "sub": [],
+   "zochilCategoryIds": [
+    274752
+   ],
+   "brand": null,
+   "sku": "DIY0002",
+   "price": 48300,
+   "compareAt": 69000,
+   "stock": 17,
+   "createdAt": "2025-12-05",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Төрөл бүхийн холболт хийж турших боломжтой.",
+    "Хүүхдэд цахилгааны анхан шатны мэдэгдэхүүн олгоно.",
+    "Олон янзын багаж төхөөрөмж угсарч болно."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/electronic-building-block-diy.webp",
+     "w": 724,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/electronic-building-block-diy-t.webp",
+      "w": 520,
+      "h": 517
+     }
+    },
+    {
+     "src": "/images/p/electronic-building-block-diy-2.webp",
+     "w": 740,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/electronic-building-block-diy-2-t.webp",
+      "w": 520,
+      "h": 506
+     }
+    },
+    {
+     "src": "/images/p/electronic-building-block-diy-3.webp",
+     "w": 720,
+     "h": 827,
+     "thumb": {
+      "src": "/images/p/electronic-building-block-diy-3-t.webp",
+      "w": 453,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/electronic-building-block-diy-4.webp",
+     "w": 720,
+     "h": 825,
+     "thumb": {
+      "src": "/images/p/electronic-building-block-diy-4-t.webp",
+      "w": 454,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/electronic-building-block-diy-5.webp",
+     "w": 747,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/electronic-building-block-diy-5-t.webp",
+      "w": 520,
+      "h": 501
+     }
+    }
+   ]
+  },
+  {
+   "id": 758540,
+   "slug": "solar-robot-diy",
+   "name": "Solar Robot DIY",
+   "category": "diy",
+   "sub": [],
+   "zochilCategoryIds": [
+    274752
+   ],
+   "brand": null,
+   "sku": "DIY0001",
+   "price": 27300,
+   "compareAt": 39000,
+   "stock": 20,
+   "createdAt": "2025-12-05",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Нараар баттерай хэрэглэхгүй ажилладаг",
+    "12 төрлийн тоглоом угсрах боломжтой"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/solar-robot-diy.webp",
+     "w": 731,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/solar-robot-diy-t.webp",
+      "w": 520,
+      "h": 512
+     }
+    },
+    {
+     "src": "/images/p/solar-robot-diy-2.webp",
+     "w": 731,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/solar-robot-diy-2-t.webp",
+      "w": 520,
+      "h": 512
+     }
+    },
+    {
+     "src": "/images/p/solar-robot-diy-3.webp",
+     "w": 722,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/solar-robot-diy-3-t.webp",
+      "w": 520,
+      "h": 519
+     }
+    },
+    {
+     "src": "/images/p/solar-robot-diy-4.webp",
+     "w": 720,
+     "h": 751,
+     "thumb": {
+      "src": "/images/p/solar-robot-diy-4-t.webp",
+      "w": 499,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 757276,
+   "slug": "lego-ongotsny-suur",
+   "name": "Lego онгоцны суурь",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": "WANGE",
+   "sku": "MIX0009",
+   "price": 25000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2025-12-03",
+   "pieces": null,
+   "size": "16.8×8×16 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Oнгоц тогтоох суурь"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/lego-ongotsny-suur.webp",
+     "w": 529,
+     "h": 603,
+     "thumb": {
+      "src": "/images/p/lego-ongotsny-suur-t.webp",
+      "w": 456,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/lego-ongotsny-suur-2.webp",
+     "w": 753,
+     "h": 378,
+     "thumb": {
+      "src": "/images/p/lego-ongotsny-suur-2-t.webp",
+      "w": 520,
+      "h": 261
+     }
+    }
+   ]
+  },
+  {
+   "id": 753908,
+   "slug": "nissan-patrol-y62-grey",
+   "name": "Nissan Patrol Y62 Grey",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0033",
+   "price": 40000,
+   "compareAt": 50000,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "17.1×6.1×7.8 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/nissan-patrol-y62-grey.webp",
+     "w": 1200,
+     "h": 768,
+     "thumb": {
+      "src": "/images/p/nissan-patrol-y62-grey-t.webp",
+      "w": 520,
+      "h": 333
+     }
+    }
+   ]
+  },
+  {
+   "id": 753907,
+   "slug": "nissan-patrol-y62-black",
+   "name": "Nissan Patrol Y62 Black",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0032",
+   "price": 40000,
+   "compareAt": 50000,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "17.1×6.1×7.8 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/nissan-patrol-y62-black.webp",
+     "w": 1200,
+     "h": 824,
+     "thumb": {
+      "src": "/images/p/nissan-patrol-y62-black-t.webp",
+      "w": 520,
+      "h": 357
+     }
+    },
+    {
+     "src": "/images/p/nissan-patrol-y62-black-2.webp",
+     "w": 1200,
+     "h": 828,
+     "thumb": {
+      "src": "/images/p/nissan-patrol-y62-black-2-t.webp",
+      "w": 520,
+      "h": 359
+     }
+    }
+   ]
+  },
+  {
+   "id": 753905,
+   "slug": "nissan-patrol-y62-white",
+   "name": "Nissan Patrol Y62 White",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0031",
+   "price": 40000,
+   "compareAt": 50000,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "17.1×6.1×7.8 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/nissan-patrol-y62-white.webp",
+     "w": 1200,
+     "h": 827,
+     "thumb": {
+      "src": "/images/p/nissan-patrol-y62-white-t.webp",
+      "w": 520,
+      "h": 358
+     }
+    },
+    {
+     "src": "/images/p/nissan-patrol-y62-white-2.webp",
+     "w": 1200,
+     "h": 821,
+     "thumb": {
+      "src": "/images/p/nissan-patrol-y62-white-2-t.webp",
+      "w": 520,
+      "h": 356
+     }
+    }
+   ]
+  },
+  {
+   "id": 753895,
+   "slug": "toyota-prius-41-alpha-white",
+   "name": "Toyota Prius 41 alpha white",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0030",
+   "price": 40000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "17×7.7×6 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-prius-41-alpha-white.webp",
+     "w": 1200,
+     "h": 777,
+     "thumb": {
+      "src": "/images/p/toyota-prius-41-alpha-white-t.webp",
+      "w": 520,
+      "h": 337
+     }
+    },
+    {
+     "src": "/images/p/toyota-prius-41-alpha-white-2.webp",
+     "w": 1200,
+     "h": 756,
+     "thumb": {
+      "src": "/images/p/toyota-prius-41-alpha-white-2-t.webp",
+      "w": 520,
+      "h": 328
+     }
+    }
+   ]
+  },
+  {
+   "id": 753894,
+   "slug": "toyota-prius-41-alpha-black",
+   "name": "Toyota Prius 41 alpha Black",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0029",
+   "price": 40000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "17×7.7×6 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-prius-41-alpha-black.webp",
+     "w": 1200,
+     "h": 936,
+     "thumb": {
+      "src": "/images/p/toyota-prius-41-alpha-black-t.webp",
+      "w": 520,
+      "h": 406
+     }
+    },
+    {
+     "src": "/images/p/toyota-prius-41-alpha-black-2.webp",
+     "w": 1200,
+     "h": 1064,
+     "thumb": {
+      "src": "/images/p/toyota-prius-41-alpha-black-2-t.webp",
+      "w": 520,
+      "h": 461
+     }
+    },
+    {
+     "src": "/images/p/toyota-prius-41-alpha-black-3.webp",
+     "w": 1200,
+     "h": 793,
+     "thumb": {
+      "src": "/images/p/toyota-prius-41-alpha-black-3-t.webp",
+      "w": 520,
+      "h": 344
+     }
+    },
+    {
+     "src": "/images/p/toyota-prius-41-alpha-black-4.webp",
+     "w": 1200,
+     "h": 1036,
+     "thumb": {
+      "src": "/images/p/toyota-prius-41-alpha-black-4-t.webp",
+      "w": 520,
+      "h": 449
+     }
+    }
+   ]
+  },
+  {
+   "id": 753885,
+   "slug": "toyota-rav4-black",
+   "name": "Toyota RAV4 Black",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0028",
+   "price": 45000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "14.5×5.5×5 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-rav4-black.webp",
+     "w": 1200,
+     "h": 1164,
+     "thumb": {
+      "src": "/images/p/toyota-rav4-black-t.webp",
+      "w": 520,
+      "h": 504
+     }
+    }
+   ]
+  },
+  {
+   "id": 753884,
+   "slug": "toyota-rav4-white",
+   "name": "Toyota RAV4 White",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0027",
+   "price": 45000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "14.5×5.5×5 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-rav4-white.webp",
+     "w": 1200,
+     "h": 883,
+     "thumb": {
+      "src": "/images/p/toyota-rav4-white-t.webp",
+      "w": 520,
+      "h": 383
+     }
+    },
+    {
+     "src": "/images/p/toyota-rav4-white-2.webp",
+     "w": 1200,
+     "h": 1198,
+     "thumb": {
+      "src": "/images/p/toyota-rav4-white-2-t.webp",
+      "w": 520,
+      "h": 519
+     }
+    }
+   ]
+  },
+  {
+   "id": 753880,
+   "slug": "land-cruiser-250-753880",
+   "name": "Land cruiser 250",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0026",
+   "price": 45000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "15.3×6.5×6 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-cruiser-250-753880.webp",
+     "w": 1200,
+     "h": 1148,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-753880-t.webp",
+      "w": 520,
+      "h": 497
+     }
+    }
+   ]
+  },
+  {
+   "id": 753876,
+   "slug": "land-cruiser-250-black",
+   "name": "Land Cruiser 250 Black",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0025",
+   "price": 45000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "15.3×6.5×6 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-cruiser-250-black.webp",
+     "w": 1200,
+     "h": 1136,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-black-t.webp",
+      "w": 520,
+      "h": 492
+     }
+    }
+   ]
+  },
+  {
+   "id": 753875,
+   "slug": "land-cruiser-250-white",
+   "name": "Land Cruiser 250 White",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0024",
+   "price": 45000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": "15.3×6.5×6 см",
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-cruiser-250-white.webp",
+     "w": 1200,
+     "h": 1131,
+     "thumb": {
+      "src": "/images/p/land-cruiser-250-white-t.webp",
+      "w": 520,
+      "h": 490
+     }
+    }
+   ]
+  },
+  {
+   "id": 753859,
+   "slug": "toyota-alphard-white",
+   "name": "Toyota Alphard White",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0020",
+   "price": 36000,
+   "compareAt": 45000,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-alphard-white.webp",
+     "w": 1200,
+     "h": 723,
+     "thumb": {
+      "src": "/images/p/toyota-alphard-white-t.webp",
+      "w": 520,
+      "h": 313
+     }
+    },
+    {
+     "src": "/images/p/toyota-alphard-white-2.webp",
+     "w": 1200,
+     "h": 533,
+     "thumb": {
+      "src": "/images/p/toyota-alphard-white-2-t.webp",
+      "w": 520,
+      "h": 231
+     }
+    }
+   ]
+  },
+  {
+   "id": 753858,
+   "slug": "toyota-alphard-black",
+   "name": "Toyota Alphard Black",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0019",
+   "price": 36000,
+   "compareAt": 45000,
+   "stock": 1,
+   "createdAt": "2025-11-28",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": "1:32",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/toyota-alphard-black.webp",
+     "w": 1200,
+     "h": 670,
+     "thumb": {
+      "src": "/images/p/toyota-alphard-black-t.webp",
+      "w": 520,
+      "h": 290
+     }
+    },
+    {
+     "src": "/images/p/toyota-alphard-black-2.webp",
+     "w": 1200,
+     "h": 581,
+     "thumb": {
+      "src": "/images/p/toyota-alphard-black-2-t.webp",
+      "w": 520,
+      "h": 252
+     }
+    }
+   ]
+  },
+  {
+   "id": 753633,
+   "slug": "subaru-sti-white",
+   "name": "Subaru STI white",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0017",
+   "price": 36000,
+   "compareAt": 45000,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7×2.6×4 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/subaru-sti-white.webp",
+     "w": 1200,
+     "h": 501,
+     "thumb": {
+      "src": "/images/p/subaru-sti-white-t.webp",
+      "w": 520,
+      "h": 217
+     }
+    }
+   ]
+  },
+  {
+   "id": 753632,
+   "slug": "subaru-sti-red",
+   "name": "Subaru STI RED",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0016",
+   "price": 36000,
+   "compareAt": 45000,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7×2.6×4 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "1-/64 scale"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/subaru-sti-red.webp",
+     "w": 1200,
+     "h": 500,
+     "thumb": {
+      "src": "/images/p/subaru-sti-red-t.webp",
+      "w": 520,
+      "h": 217
+     }
+    }
+   ]
+  },
+  {
+   "id": 753631,
+   "slug": "subaru-impreza-type-sti",
+   "name": "Subaru Impreza type STI",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0015",
+   "price": 36000,
+   "compareAt": 45000,
+   "stock": 2,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7.5×2.5×3 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/subaru-impreza-type-sti.webp",
+     "w": 879,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/subaru-impreza-type-sti-t.webp",
+      "w": 520,
+      "h": 426
+     }
+    },
+    {
+     "src": "/images/p/subaru-impreza-type-sti-2.webp",
+     "w": 1200,
+     "h": 393,
+     "thumb": {
+      "src": "/images/p/subaru-impreza-type-sti-2-t.webp",
+      "w": 520,
+      "h": 170
+     }
+    }
+   ]
+  },
+  {
+   "id": 753629,
+   "slug": "subaru-wrx-sti",
+   "name": "Subaru WRX STI",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0014",
+   "price": 36000,
+   "compareAt": 45000,
+   "stock": 2,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7.3×2.8×2.2 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/subaru-wrx-sti.webp",
+     "w": 1200,
+     "h": 642,
+     "thumb": {
+      "src": "/images/p/subaru-wrx-sti-t.webp",
+      "w": 520,
+      "h": 278
+     }
+    }
+   ]
+  },
+  {
+   "id": 753628,
+   "slug": "land-cruiser-300gr-black",
+   "name": "Land Cruiser 300GR Black",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [],
+   "brand": null,
+   "sku": "Diecast0014",
+   "price": 64000,
+   "compareAt": 80000,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7.5×6×8 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-cruiser-300gr-black.webp",
+     "w": 1108,
+     "h": 620,
+     "thumb": {
+      "src": "/images/p/land-cruiser-300gr-black-t.webp",
+      "w": 520,
+      "h": 291
+     }
+    }
+   ]
+  },
+  {
+   "id": 753627,
+   "slug": "land-cruiser-300gr",
+   "name": "Land Cruiser 300GR",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0013",
+   "price": 64000,
+   "compareAt": 80000,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7.5×6×8 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/land-cruiser-300gr.webp",
+     "w": 1181,
+     "h": 636,
+     "thumb": {
+      "src": "/images/p/land-cruiser-300gr-t.webp",
+      "w": 520,
+      "h": 280
+     }
+    }
+   ]
+  },
+  {
+   "id": 753624,
+   "slug": "lexus-lx600",
+   "name": "Lexus LX600",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0011",
+   "price": 72000,
+   "compareAt": 90000,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7.5×6×8 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/lexus-lx600.webp",
+     "w": 1195,
+     "h": 662,
+     "thumb": {
+      "src": "/images/p/lexus-lx600-t.webp",
+      "w": 520,
+      "h": 288
+     }
+    },
+    {
+     "src": "/images/p/lexus-lx600-2.webp",
+     "w": 1130,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/lexus-lx600-2-t.webp",
+      "w": 520,
+      "h": 331
+     }
+    },
+    {
+     "src": "/images/p/lexus-lx600-3.webp",
+     "w": 1141,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/lexus-lx600-3-t.webp",
+      "w": 520,
+      "h": 328
+     }
+    }
+   ]
+  },
+  {
+   "id": 753585,
+   "slug": "mitsubishi-pajero",
+   "name": "Mitsubishi Pajero",
+   "category": "diecast",
+   "sub": [],
+   "zochilCategoryIds": [
+    245451
+   ],
+   "brand": null,
+   "sku": "Diecast0002",
+   "price": 56000,
+   "compareAt": 70000,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "7.4×3.2×2.9 см",
+   "age": null,
+   "scale": "1:64",
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mitsubishi-pajero.webp",
+     "w": 1045,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mitsubishi-pajero-t.webp",
+      "w": 520,
+      "h": 358
+     }
+    },
+    {
+     "src": "/images/p/mitsubishi-pajero-2.webp",
+     "w": 999,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mitsubishi-pajero-2-t.webp",
+      "w": 520,
+      "h": 375
+     }
+    },
+    {
+     "src": "/images/p/mitsubishi-pajero-3.webp",
+     "w": 1033,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mitsubishi-pajero-3-t.webp",
+      "w": 520,
+      "h": 362
+     }
+    },
+    {
+     "src": "/images/p/mitsubishi-pajero-4.webp",
+     "w": 1015,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/mitsubishi-pajero-4-t.webp",
+      "w": 520,
+      "h": 369
+     }
+    }
+   ]
+  },
+  {
+   "id": 753526,
+   "slug": "khorgo-62-28-17sm",
+   "name": "Хорго 62*28*17см",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0012",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Bugatti. Ferrari Daytona SP3. McLaren p1. Lamborghini Sian FPK37 болон Hypercar загваруудад таарна."
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/khorgo-62-28-17sm.webp",
+     "w": 1141,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/khorgo-62-28-17sm-t.webp",
+      "w": 520,
+      "h": 328
+     }
+    },
+    {
+     "src": "/images/p/khorgo-62-28-17sm-2.webp",
+     "w": 1171,
+     "h": 475,
+     "thumb": {
+      "src": "/images/p/khorgo-62-28-17sm-2-t.webp",
+      "w": 520,
+      "h": 211
+     }
+    }
+   ]
+  },
+  {
+   "id": 753522,
+   "slug": "khorgo-50-25-30sm",
+   "name": "Хорго 50*25*30см",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0011",
+   "price": 50000,
+   "compareAt": null,
+   "stock": 3,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Jeer Mercedes Benz, Land Rover Defender, Ford Raptor, Motocycle загваруудад таарна"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/khorgo-50-25-30sm.webp",
+     "w": 738,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/khorgo-50-25-30sm-t.webp",
+      "w": 520,
+      "h": 507
+     }
+    },
+    {
+     "src": "/images/p/khorgo-50-25-30sm-2.webp",
+     "w": 1025,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/khorgo-50-25-30sm-2-t.webp",
+      "w": 520,
+      "h": 365
+     }
+    }
+   ]
+  },
+  {
+   "id": 753510,
+   "slug": "la-ferrari-viva-hypercar-frame",
+   "name": "La Ferrari Viva Hypercar frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0010",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/la-ferrari-viva-hypercar-frame.webp",
+     "w": 465,
+     "h": 725,
+     "thumb": {
+      "src": "/images/p/la-ferrari-viva-hypercar-frame-t.webp",
+      "w": 334,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 753505,
+   "slug": "redbull-f1-frame-753505",
+   "name": "RedBull F1 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR000",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/redbull-f1-frame-753505.webp",
+     "w": 532,
+     "h": 871,
+     "thumb": {
+      "src": "/images/p/redbull-f1-frame-753505-t.webp",
+      "w": 318,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 753483,
+   "slug": "bugatti-chiron-frame",
+   "name": "Bugatti Chiron frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0007",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/bugatti-chiron-frame.webp",
+     "w": 539,
+     "h": 860,
+     "thumb": {
+      "src": "/images/p/bugatti-chiron-frame-t.webp",
+      "w": 326,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 753469,
+   "slug": "peugeot-9x8-frame",
+   "name": "Peugeot 9x8 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0006",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/peugeot-9x8-frame.webp",
+     "w": 596,
+     "h": 953,
+     "thumb": {
+      "src": "/images/p/peugeot-9x8-frame-t.webp",
+      "w": 325,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 753465,
+   "slug": "lamborghini-sian-fpk37-frame",
+   "name": "Lamborghini Sian FPK37 frame",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0004",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/lamborghini-sian-fpk37-frame.webp",
+     "w": 541,
+     "h": 862,
+     "thumb": {
+      "src": "/images/p/lamborghini-sian-fpk37-frame-t.webp",
+      "w": 326,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 753460,
+   "slug": "mercedes-benz-f1",
+   "name": "Mercedes Benz F1",
+   "category": "frames",
+   "sub": [],
+   "zochilCategoryIds": [
+    273088
+   ],
+   "brand": null,
+   "sku": "FR0001",
+   "price": 70000,
+   "compareAt": null,
+   "stock": 1,
+   "createdAt": "2025-11-27",
+   "pieces": null,
+   "size": "80×50 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэл асдаггүй",
+    "Өлгүүр болон тогтоогч дагалдана"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/mercedes-benz-f1.webp",
+     "w": 448,
+     "h": 714,
+     "thumb": {
+      "src": "/images/p/mercedes-benz-f1-t.webp",
+      "w": 326,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 752400,
+   "slug": "dune-royal-ornithopter",
+   "name": "Dune Royal ornithopter",
+   "category": "buildings",
+   "sub": [],
+   "zochilCategoryIds": [
+    243237
+   ],
+   "brand": "Icons",
+   "sku": "W0010",
+   "price": 129000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2025-11-25",
+   "pieces": 1369,
+   "size": "57×79×23 см",
+   "age": null,
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/dune-royal-ornithopter.webp",
+     "w": 746,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/dune-royal-ornithopter-t.webp",
+      "w": 520,
+      "h": 502
+     }
+    },
+    {
+     "src": "/images/p/dune-royal-ornithopter-2.webp",
+     "w": 720,
+     "h": 751,
+     "thumb": {
+      "src": "/images/p/dune-royal-ornithopter-2-t.webp",
+      "w": 499,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/dune-royal-ornithopter-3.webp",
+     "w": 723,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/dune-royal-ornithopter-3-t.webp",
+      "w": 520,
+      "h": 518
+     }
+    }
+   ]
+  },
+  {
+   "id": 736704,
+   "slug": "eiffel-tower",
+   "name": "Eiffel Tower",
+   "category": "buildings",
+   "sub": [],
+   "zochilCategoryIds": [
+    266376
+   ],
+   "brand": "Icons",
+   "sku": "UB0004",
+   "price": 400000,
+   "compareAt": null,
+   "stock": 0,
+   "createdAt": "2025-11-02",
+   "pieces": 10001,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "1.5m өндөр"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/eiffel-tower.webp",
+     "w": 834,
+     "h": 826,
+     "thumb": {
+      "src": "/images/p/eiffel-tower-t.webp",
+      "w": 520,
+      "h": 515
+     }
+    },
+    {
+     "src": "/images/p/eiffel-tower-2.webp",
+     "w": 544,
+     "h": 889,
+     "thumb": {
+      "src": "/images/p/eiffel-tower-2-t.webp",
+      "w": 318,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/eiffel-tower-3.webp",
+     "w": 318,
+     "h": 885,
+     "thumb": {
+      "src": "/images/p/eiffel-tower-3-t.webp",
+      "w": 187,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 736491,
+   "slug": "khanyn-lego",
+   "name": "Ханын LEGO",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": "Feelo",
+   "sku": "MIX0005",
+   "price": 111200,
+   "compareAt": 139000,
+   "stock": 15,
+   "createdAt": "2025-11-01",
+   "pieces": 212,
+   "size": null,
+   "age": "3+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/khanyn-lego.webp",
+     "w": 676,
+     "h": 687,
+     "thumb": {
+      "src": "/images/p/khanyn-lego-t.webp",
+      "w": 512,
+      "h": 520
+     }
+    },
+    {
+     "src": "/images/p/khanyn-lego-2.webp",
+     "w": 801,
+     "h": 650,
+     "thumb": {
+      "src": "/images/p/khanyn-lego-2-t.webp",
+      "w": 520,
+      "h": 422
+     }
+    },
+    {
+     "src": "/images/p/khanyn-lego-3.webp",
+     "w": 234,
+     "h": 358,
+     "thumb": {
+      "src": "/images/p/khanyn-lego-3-t.webp",
+      "w": 234,
+      "h": 358
+     }
+    },
+    {
+     "src": "/images/p/khanyn-lego-4.webp",
+     "w": 197,
+     "h": 195,
+     "thumb": {
+      "src": "/images/p/khanyn-lego-4-t.webp",
+      "w": 197,
+      "h": 195
+     }
+    }
+   ]
+  },
+  {
+   "id": 736490,
+   "slug": "minecraft",
+   "name": "Minecraft",
+   "category": "toys",
+   "sub": [],
+   "zochilCategoryIds": [
+    266877
+   ],
+   "brand": null,
+   "sku": "MIX0004",
+   "price": 41300,
+   "compareAt": 59000,
+   "stock": 22,
+   "createdAt": "2025-11-01",
+   "pieces": null,
+   "size": null,
+   "age": null,
+   "scale": null,
+   "features": [
+    "Гэрэлтдэг блоктой загвар"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/minecraft.webp",
+     "w": 997,
+     "h": 720,
+     "thumb": {
+      "src": "/images/p/minecraft-t.webp",
+      "w": 520,
+      "h": 376
+     }
+    }
+   ]
+  },
+  {
+   "id": 736158,
+   "slug": "hagia-sophia-istanbul",
+   "name": "Hagia Sophia Istanbul",
+   "category": "buildings",
+   "sub": [],
+   "zochilCategoryIds": [
+    266376
+   ],
+   "brand": "WANGE",
+   "sku": "UB0003",
+   "price": 146300,
+   "compareAt": 209000,
+   "stock": 2,
+   "createdAt": "2025-10-31",
+   "pieces": 1434,
+   "size": "368×336×204 см",
+   "age": null,
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/hagia-sophia-istanbul.webp",
+     "w": 490,
+     "h": 432,
+     "thumb": {
+      "src": "/images/p/hagia-sophia-istanbul-t.webp",
+      "w": 490,
+      "h": 432
+     }
+    },
+    {
+     "src": "/images/p/hagia-sophia-istanbul-2.webp",
+     "w": 801,
+     "h": 581,
+     "thumb": {
+      "src": "/images/p/hagia-sophia-istanbul-2-t.webp",
+      "w": 520,
+      "h": 377
+     }
+    }
+   ]
+  },
+  {
+   "id": 736149,
+   "slug": "saint-basil-s-cathedral-kreml",
+   "name": "Saint Basil’s Cathedral-Кремл",
+   "category": "buildings",
+   "sub": [],
+   "zochilCategoryIds": [
+    266376
+   ],
+   "brand": "WANGE",
+   "sku": "UB0002",
+   "price": 189000,
+   "compareAt": 219000,
+   "stock": 1,
+   "createdAt": "2025-10-31",
+   "pieces": 3213,
+   "size": "48×30×40 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "🏰 Saint Basil’s Cathedral",
+    "3213 pcs | 48×30×40 см"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/saint-basil-s-cathedral-kreml.webp",
+     "w": 509,
+     "h": 495,
+     "thumb": {
+      "src": "/images/p/saint-basil-s-cathedral-kreml-t.webp",
+      "w": 509,
+      "h": 495
+     }
+    },
+    {
+     "src": "/images/p/saint-basil-s-cathedral-kreml-2.webp",
+     "w": 371,
+     "h": 509,
+     "thumb": {
+      "src": "/images/p/saint-basil-s-cathedral-kreml-2-t.webp",
+      "w": 371,
+      "h": 509
+     }
+    },
+    {
+     "src": "/images/p/saint-basil-s-cathedral-kreml-3.webp",
+     "w": 511,
+     "h": 486,
+     "thumb": {
+      "src": "/images/p/saint-basil-s-cathedral-kreml-3-t.webp",
+      "w": 511,
+      "h": 486
+     }
+    }
+   ]
+  },
+  {
+   "id": 736141,
+   "slug": "taj-mahal-india-agarta",
+   "name": "Taj Mahal India Agarta",
+   "category": "buildings",
+   "sub": [],
+   "zochilCategoryIds": [
+    266376
+   ],
+   "brand": "WANGE",
+   "sku": "UB0001",
+   "price": 104300,
+   "compareAt": 149000,
+   "stock": 3,
+   "createdAt": "2025-10-31",
+   "pieces": 1113,
+   "size": "33.8×33.8×24.2 см",
+   "age": null,
+   "scale": null,
+   "features": [
+    "1113 pcs | 33.8×33.8×24.2 см"
+   ],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/taj-mahal-india-agarta.webp",
+     "w": 844,
+     "h": 740,
+     "thumb": {
+      "src": "/images/p/taj-mahal-india-agarta-t.webp",
+      "w": 520,
+      "h": 456
+     }
+    },
+    {
+     "src": "/images/p/taj-mahal-india-agarta-2.webp",
+     "w": 764,
+     "h": 726,
+     "thumb": {
+      "src": "/images/p/taj-mahal-india-agarta-2-t.webp",
+      "w": 520,
+      "h": 494
+     }
+    },
+    {
+     "src": "/images/p/taj-mahal-india-agarta-3.webp",
+     "w": 568,
+     "h": 595,
+     "thumb": {
+      "src": "/images/p/taj-mahal-india-agarta-3-t.webp",
+      "w": 496,
+      "h": 520
+     }
+    }
+   ]
+  },
+  {
+   "id": 667833,
+   "slug": "ferrari-f1-team",
+   "name": "Ferrari F1 Team",
+   "category": "lego-cars",
+   "sub": [
+    "f1"
+   ],
+   "zochilCategoryIds": [
+    243234,
+    244261
+   ],
+   "brand": "Technic",
+   "sku": "F0001",
+   "price": 199000,
+   "compareAt": null,
+   "stock": 2,
+   "createdAt": "2025-06-03",
+   "pieces": 1639,
+   "size": "61×24×14 см",
+   "age": "12+",
+   "scale": null,
+   "features": [],
+   "video": null,
+   "images": [
+    {
+     "src": "/images/p/ferrari-f1-team.webp",
+     "w": 1089,
+     "h": 659,
+     "thumb": {
+      "src": "/images/p/ferrari-f1-team-t.webp",
+      "w": 520,
+      "h": 315
+     }
+    },
+    {
+     "src": "/images/p/ferrari-f1-team-2.webp",
+     "w": 1200,
+     "h": 637,
+     "thumb": {
+      "src": "/images/p/ferrari-f1-team-2-t.webp",
+      "w": 520,
+      "h": 276
+     }
+    },
+    {
+     "src": "/images/p/ferrari-f1-team-3.webp",
+     "w": 1200,
+     "h": 647,
+     "thumb": {
+      "src": "/images/p/ferrari-f1-team-3-t.webp",
+      "w": 520,
+      "h": 280
+     }
+    },
+    {
+     "src": "/images/p/ferrari-f1-team-4.webp",
+     "w": 1200,
+     "h": 653,
+     "thumb": {
+      "src": "/images/p/ferrari-f1-team-4-t.webp",
+      "w": 520,
+      "h": 283
+     }
+    }
+   ]
+  }
+ ],
+ "banners": [
+  {
+   "id": 50972,
+   "title": "Black friday",
+   "href": null,
+   "image": {
+    "src": "/images/banners/50972.webp",
+    "w": 1254,
+    "h": 593
+   }
+  },
+  {
+   "id": 47736,
+   "title": "Pagani Utopia Luxury edition",
+   "href": null,
+   "image": {
+    "src": "/images/banners/47736.webp",
+    "w": 1200,
+    "h": 802
+   }
+  },
+  {
+   "id": 47735,
+   "title": "Уул уурхайн RC загварууд бэлэн ирлээ.",
+   "href": "/p/bulldozer-udirdlagatai",
+   "image": {
+    "src": "/images/banners/47735.webp",
+    "w": 900,
+    "h": 600
+   }
+  },
+  {
+   "id": 47734,
+   "title": "Уул уурхайн RC загварууд шинээр ирлээ.",
+   "href": "/p/goliat-uuruu-buulgagch",
+   "image": {
+    "src": "/images/banners/47734.webp",
+    "w": 800,
+    "h": 800
+   }
+  },
+  {
+   "id": 46271,
+   "title": "Ferrari Enzo",
+   "href": null,
+   "image": {
+    "src": "/images/banners/46271.webp",
+    "w": 1411,
+    "h": 832
+   }
+  },
+  {
+   "id": 46264,
+   "title": "Mclaren P1",
+   "href": null,
+   "image": {
+    "src": "/images/banners/46264.webp",
+    "w": 996,
+    "h": 690
+   }
+  }
+ ],
+ "posts": [
+  {
+   "id": 46725,
+   "title": "Манайхан сэлбэг хайж асууж их холбогддог. Нэршил нь ийм байдаг шүү. Яагаав нөгөө гонзгой 4 нүхтэй биш шүү.",
+   "date": "2025-10-29",
+   "image": {
+    "src": "/images/posts/46725.webp",
+    "w": 1200,
+    "h": 1200
+   },
+   "body": [],
+   "tags": []
+  },
+  {
+   "id": 46723,
+   "title": "Effiel Tower",
+   "date": "2025-10-29",
+   "image": {
+    "src": "/images/posts/46723.webp",
+    "w": 244,
+    "h": 397
+   },
+   "body": [
+    "10001 ширхэгтэй",
+    "Eiffel Tower – 1.49*57*57см"
+   ],
+   "tags": []
+  },
+  {
+   "id": 42050,
+   "title": "Гиннесийн амжилтаас",
+   "date": "2025-05-25",
+   "image": {
+    "src": "/images/posts/42050.webp",
+    "w": 766,
+    "h": 486
+   },
+   "body": [
+    "Гиннесийн амжилтаас",
+    "2022 оны 5-н сарын 22нд АНУ лего сонирхогч залуу Sibastian Hawort 9090 ширхэгтэй 135*16*44см хэмжээтэй аварга том Титаник онгоцыг 8цаг 42мин 12сек угсарснаар дэлхийн шинэ рекордыг тогтоосон байна.",
+    "Та ийм хэмжээтэй лего тоглоомыг хэр хурдан угсарч чадах бэ?"
+   ],
+   "tags": [
+    "#legotogloom",
+    "#LEGOCollectors",
+    "#legotitanic",
+    "#GuinessWorldRecord"
+   ]
+  }
+ ],
+ "about": [
+  "Бидний тухай — Brickzone",
+  "Brickzone бол бүтээлч сэтгэлгээ, инженерийн сонирхлыг LEGO-гийн ертөнцөөр дамжуулан нэгтгэдэг builder community юм.",
+  "Бидний зорилго —",
+  "🔹 Монголд LEGO сонирхогчдын хүчирхэг community бий болгох",
+  "🔹 Инженерийн сэтгэлгээ, бүтээлч байдал, нарийн хийцтэй загварыг түгээх"
+ ],
+ "faq": [
+  {
+   "q": "Ажлын цаг",
+   "a": "10-19цаг"
+  },
+  {
+   "q": "Холбоо барих дугаар",
+   "a": "91108708"
+  },
+  {
+   "q": "Дэлгүүрийн хаяг хаана байрладаг бэ?",
+   "a": "ТБД Андууд Старс төв Б заал 4 давхарт 28тоот"
+  },
+  {
+   "q": "Хүргэлт хийдэг үү?",
+   "a": "Манайх таны захиалгыг 24-48 цагийн дотор хүргэх болно. Орон нутгаас захиалсан барааг унаанд тавьж өгдөг."
+  }
+ ]
+}
