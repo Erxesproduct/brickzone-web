@@ -11,9 +11,11 @@
     "sync:erxes": "node scripts/sync-erxes-catalog.mjs",
     "test:order": "node scripts/test-order.mjs",
     "prebuild": "node scripts/build-lite.mjs",
-    "predev": "node scripts/build-lite.mjs"
+    "predev": "node scripts/build-lite.mjs",
+    "ar": "node scripts/build-ar.mjs"
   },
   "dependencies": {
+    "@google/model-viewer": "4.4.0",
     "next": "^16.4.6",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",

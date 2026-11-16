@@ -43,6 +43,32 @@ body {
   font-family: var(--font-sans);
 }
 
+/* LEGO cursors (mouse only): a red brick arrow, and a minifigure C-hand on anything clickable.
+   Drawn by scripts/build-cursors.mjs; the keyword after each image is the fallback. */
+@media (pointer: fine) {
+  html {
+    cursor: url("/cursor/brick.png") 4 3, auto;
+    cursor: -webkit-image-set(url("/cursor/brick.png") 1x, url("/cursor/brick@2x.png") 2x) 4 3, auto;
+  }
+  a,
+  button:not(:disabled),
+  summary,
+  label:has(input[type="checkbox"]),
+  [role="button"],
+  [role="tab"],
+  [role="radio"] {
+    cursor: url("/cursor/hand.png") 7 7, pointer;
+    cursor: -webkit-image-set(url("/cursor/hand.png") 1x, url("/cursor/hand@2x.png") 2x) 7 7, pointer;
+  }
+  input:not([type="checkbox"]):not([type="radio"]),
+  textarea {
+    cursor: text;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
 ::selection {
   background: var(--color-brick);
   color: #fff;
