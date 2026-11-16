@@ -114,3 +114,40 @@ Website (done):
 
 - Checkout asks for «Хувь хүн» or «Байгууллага».
 - For a company it requires the 7-digit registry number and validates it on the server.
+
+## 1.4 Delivery zones, fees and order statuses
+
+**Website (done)**, taken from the Zochil delivery settings and FAQ:
+
+| Option | Fee | Notes |
+| --- | --- | --- |
+| Улаанбаатар хот | 8,000₮ | «24-48 цагийн дотор хүргэх болно» |
+| Орон нутаг | 8,000₮ | «Орон нутгаас захиалсан барааг унаанд тавьж өгдөг»; the address field asks for the town, bus and receiver |
+| Both | **free from 250,000₮** | Zochil `delivery_price_limit` |
+
+- Zochil had a single option «Улаанбаатар хот болон орон нутаг». The website splits it in two only so staff see
+  which one it is; the fee is the same.
+- The server recomputes the fee and the free-delivery threshold; the browser cannot change them.
+- All of these rules are in `src/content/business.ts`.
+
+**Confirm with Brickzone:**
+
+- Is pick-up from the shop (Андууд Старс төв, Б заал, 4 давхар, 28 тоот; 10:00–19:00) allowed? Zochil did not
+  offer it, so the website does not.
+- Who pays the bus fare for countryside orders, and does the 8,000₮ cover taking the parcel to the bus?
+- Districts far from the centre (Налайх, Багануур): same fee?
+- The exact map location. Zochil had no coordinates, so the map link searches «Anduud Stars center».
+
+**erxes (manual):**
+
+1. Import `docs/erxes/brickzone-delivery.csv`: services `DELIVERY-UB` and `DELIVERY-COUNTRYSIDE`, 8,000₮ each.
+2. **Sales → Boards → «Онлайн захиалга» → pipeline «Вэбсайт»**, with these stages in order:
+   1. Шинэ захиалга
+   2. Төлбөр хүлээгдэж буй
+   3. Төлбөр баталгаажсан
+   4. Бэлтгэж байна
+   5. Хүргэлтэд гарсан
+   6. Хүргэгдсэн
+
+   Add «Цуцлагдсан» as well.
+3. **Frontline → Forms → (order form) → Settings**: create a sales card in «Шинэ захиалга» for every submission.

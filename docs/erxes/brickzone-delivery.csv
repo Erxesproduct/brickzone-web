@@ -1,0 +1,3 @@
+code,name,type,uom,unitPrice,description
+DELIVERY-UB,Хүргэлт: Улаанбаатар хот,service,ш,8000,"250,000₮-өөс дээш захиалгад 0₮"
+DELIVERY-COUNTRYSIDE,Хүргэлт: орон нутаг (унаанд тавих),service,ш,8000,"250,000₮-өөс дээш захиалгад 0₮"
