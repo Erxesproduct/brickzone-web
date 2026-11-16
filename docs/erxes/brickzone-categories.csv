@@ -1,0 +1,24 @@
+code,name,parentCode
+BZ,Brickzone,
+BZ-lego-cars,LEGO машин,BZ
+BZ-lego-cars-hypercars,Hypercars,BZ-lego-cars
+BZ-lego-cars-sport,Спорт машин,BZ-lego-cars
+BZ-lego-cars-f1,Formula 1,BZ-lego-cars
+BZ-lego-cars-jeep,Жийп,BZ-lego-cars
+BZ-rc,RC удирдлагатай,BZ
+BZ-rc-mining,Уул уурхайн техник,BZ-rc
+BZ-rc-offroad,Бартаат замын машин,BZ-rc
+BZ-rc-heavy,Хүнд даацын машин,BZ-rc
+BZ-rc-air-water,"Завь, нисдэг тэрэг",BZ-rc
+BZ-rc-sets,RC барилгын багц,BZ
+BZ-military,Цэргийн LEGO,BZ
+BZ-military-tanks,Танк,BZ-military
+BZ-military-armored,Хуягт техник,BZ-military
+BZ-military-aircraft,"Онгоц, нисдэг тэрэг",BZ-military
+BZ-military-navy,Усан онгоц,BZ-military
+BZ-6-stud,6 Stud цуглуулга,BZ
+BZ-frames,"Жааз, хорго",BZ
+BZ-buildings,LEGO барилга,BZ
+BZ-diecast,Diecast,BZ
+BZ-diy,"DIY, STEM",BZ
+BZ-toys,Бусад тоглоом,BZ
