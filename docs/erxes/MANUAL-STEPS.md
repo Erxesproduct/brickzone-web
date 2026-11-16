@@ -77,3 +77,25 @@ Steps:
 
 - When does the Black Friday sale end? The website shows the Zochil sale prices until `catalog.json` changes.
 - 96 products have no piece count in their description.
+
+## 1.2 Payment setup (QPay)
+
+On Zochil the only enabled checkout method was **QPay**, through Zochil's merchant. It must be issued again for
+erxes. The shop's payment rule also mentions Хаан банк / Төрийн банк transfer and **SocialPay, ArdPay 6 хуваан**.
+
+1. Get Brickzone's own QPay merchant credentials: `client_id`, `client_secret` and `invoice_code`.
+   Owner: Terbish / Brickzone.
+2. **Settings → Payments → Add → QPay**: enter the credentials.
+3. **Settings → Payments → (QPay) → Test**: create a 100₮ test invoice.
+4. **Sales → Pipelines → «Вэбсайт» → Settings → Payments**: select QPay.
+5. Installments: SocialPay / ArdPay need their own merchant contracts. Until they are connected, the website only
+   collects the request (see below) and staff arrange it by phone.
+
+Website (done):
+
+- Checkout shows QPay and the rule «QPay-ээр төлснөөр захиалга баталгаажна; Хаан банк, Төрийн банкны дансаар
+  шилжүүлж болно».
+- A «6 хуваан төлөх хүсэлт (SocialPay, ArdPay)» checkbox adds `[SocialPay/ArdPay 6 хуваан төлөх хүсэлттэй]` to
+  the order note in erxes.
+
+**Confirm with Brickzone:** the bank account numbers (not on Zochil), and whether installments have a minimum amount.
